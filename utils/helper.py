@@ -24,12 +24,11 @@ def process_revenue(revenue_string):
     
     splitted = [int(item) for item in ' '.join(splitted).split()]
     
-    max_revenue = None
-    min_revenue = None
+    max_revenue = 0
+    min_revenue = 0
     
-    if is_max:
+    if is_max or is_min:
         max_revenue = splitted[0]
-    elif is_min:
         min_revenue = splitted[0]
     else:
         min_revenue, max_revenue = splitted

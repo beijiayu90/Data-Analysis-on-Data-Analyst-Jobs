@@ -1,0 +1,1414 @@
+,industry,city,state,min_revenue,max_revenue,min_salary_estimate,max_salary_estimate,avg_salary_estimate,avg_revenue
+0,Social Assistance,New York, NY,100,500,37000,66000,51500,300.0
+1,Health Care Services & Hospitals,New York, NY,2000,5000,37000,66000,51500,3500.0
+3,IT Services,New York, NY,50,100,37000,66000,51500,75.0
+4,Sports & Recreation,New York, NY,100,500,37000,66000,51500,300.0
+7,Insurance Carriers,New York, NY,100,500,37000,66000,51500,300.0
+8,Venture Capital & Private Equity,New York, NY,1000,2000,37000,66000,51500,1500.0
+10,Health Care Services & Hospitals,New York, NY,5000,10000,37000,66000,51500,7500.0
+12,Health Care Services & Hospitals,New York, NY,2000,5000,37000,66000,51500,3500.0
+13,Advertising & Marketing,New York, NY,100,500,37000,66000,51500,300.0
+14,Brokerage Services,Jersey City, NJ,1,5,37000,66000,51500,3.0
+17,Consulting,New York, NY,25,50,37000,66000,51500,37.5
+18,Research & Development,New York, NY,100,500,37000,66000,51500,300.0
+20,Internet,New York, NY,10000,10000,37000,66000,51500,10000.0
+22,Investment Banking & Asset Management,New York, NY,5000,10000,37000,66000,51500,7500.0
+23,Casual Restaurants,New York, NY,1,5,37000,66000,51500,3.0
+25,Advertising & Marketing,New York, NY,1,1,37000,66000,51500,1.0
+26,Internet,New York, NY,10,25,37000,66000,51500,17.5
+28,Advertising & Marketing,New York, NY,1,5,37000,66000,51500,3.0
+30,Consulting,Brooklyn, NY,25,50,46000,87000,66500,37.5
+31,Enterprise Software & Network Solutions,Jersey City, NJ,1,5,46000,87000,66500,3.0
+35,Banks & Credit Unions,New York, NY,10000,10000,46000,87000,66500,10000.0
+37,Computer Hardware & Software,New York, NY,1,1,46000,87000,66500,1.0
+38,Health Care Services & Hospitals,New York, NY,5000,10000,46000,87000,66500,7500.0
+39,Social Assistance,New York, NY,10,25,46000,87000,66500,17.5
+43,Staffing & Outsourcing,New York, NY,1,5,46000,87000,66500,3.0
+45,Staffing & Outsourcing,New York, NY,500,1000,46000,87000,66500,750.0
+46,Advertising & Marketing,New York, NY,1,1,46000,87000,66500,1.0
+47,Advertising & Marketing,New York, NY,100,500,46000,87000,66500,300.0
+49,IT Services,New York, NY,500,1000,46000,87000,66500,750.0
+50,Motion Picture Production & Distribution,New York, NY,10000,10000,46000,87000,66500,10000.0
+52,IT Services,Jersey City, NJ,100,500,46000,87000,66500,300.0
+54,Staffing & Outsourcing,Weehawken, NJ,50,100,46000,87000,66500,75.0
+56,Motion Picture Production & Distribution,New York, NY,10000,10000,46000,87000,66500,10000.0
+57,Legal,New York, NY,500,1000,46000,87000,66500,750.0
+59,Real Estate,New York, NY,25,50,46000,87000,66500,37.5
+61,IT Services,New York, NY,500,1000,51000,88000,69500,750.0
+62,IT Services,New York, NY,500,1000,51000,88000,69500,750.0
+63,IT Services,New York, NY,500,1000,51000,88000,69500,750.0
+64,Staffing & Outsourcing,New York, NY,1000,2000,51000,88000,69500,1500.0
+65,Internet,New York, NY,2000,5000,51000,88000,69500,3500.0
+66,IT Services,New York, NY,1,5,51000,88000,69500,3.0
+67,Investment Banking & Asset Management,New York, NY,500,1000,51000,88000,69500,750.0
+69,IT Services,New York, NY,100,500,51000,88000,69500,300.0
+70,Staffing & Outsourcing,New York, NY,50,100,51000,88000,69500,75.0
+73,Investment Banking & Asset Management,New York, NY,10000,10000,51000,88000,69500,10000.0
+74,Staffing & Outsourcing,New York, NY,100,500,51000,88000,69500,300.0
+76,TV Broadcast & Cable Networks,New York, NY,5000,10000,51000,88000,69500,7500.0
+79,Staffing & Outsourcing,New York, NY,1,5,51000,88000,69500,3.0
+83,Staffing & Outsourcing,New York, NY,100,500,51000,88000,69500,300.0
+84,Accounting,New York, NY,1,1,51000,88000,69500,1.0
+86,IT Services,New York, NY,1,1,51000,88000,69500,1.0
+87,Consulting,New York, NY,10,25,51000,88000,69500,17.5
+89,Brokerage Services,New York, NY,500,1000,51000,88000,69500,750.0
+91,Investment Banking & Asset Management,New York, NY,2000,5000,51000,87000,69000,3500.0
+92,Consulting,New York, NY,500,1000,51000,87000,69000,750.0
+93,IT Services,New York, NY,10,25,51000,87000,69000,17.5
+94,Staffing & Outsourcing,Jersey City, NJ,2000,5000,51000,87000,69000,3500.0
+95,Consulting,New York, NY,1,5,51000,87000,69000,3.0
+101,Staffing & Outsourcing,New York, NY,10,25,51000,87000,69000,17.5
+102,Health Care Services & Hospitals,New York, NY,1000,2000,51000,87000,69000,1500.0
+103,Investment Banking & Asset Management,New York, NY,10000,10000,51000,87000,69000,10000.0
+104,Social Assistance,Long Island City, NY,25,50,51000,87000,69000,37.5
+106,Consulting,New York, NY,5,10,51000,87000,69000,7.5
+107,IT Services,New York, NY,50,100,51000,87000,69000,75.0
+111,Investment Banking & Asset Management,New York, NY,100,500,51000,87000,69000,300.0
+112,Staffing & Outsourcing,New York, NY,2000,5000,51000,87000,69000,3500.0
+113,Computer Hardware & Software,New York, NY,25,50,51000,87000,69000,37.5
+115,Enterprise Software & Network Solutions,Jersey City, NJ,10000,10000,51000,87000,69000,10000.0
+116,Social Assistance,New York, NY,100,500,51000,87000,69000,300.0
+117,Biotech & Pharmaceuticals,Florham Park, NJ,5,10,51000,87000,69000,7.5
+119,Insurance Carriers,New York, NY,100,500,51000,87000,69000,300.0
+121,Insurance Agencies & Brokerages,New York, NY,10000,10000,59000,85000,72000,10000.0
+122,Staffing & Outsourcing,New York, NY,1,5,59000,85000,72000,3.0
+124,IT Services,New York, NY,50,100,59000,85000,72000,75.0
+125,IT Services,New York, NY,10000,10000,59000,85000,72000,10000.0
+126,Health Care Services & Hospitals,Manhasset, NY,10000,10000,59000,85000,72000,10000.0
+127,Staffing & Outsourcing,New York, NY,25,50,59000,85000,72000,37.5
+129,Investment Banking & Asset Management,New York, NY,10000,10000,59000,85000,72000,10000.0
+130,Health Care Services & Hospitals,New York, NY,25,50,59000,85000,72000,37.5
+131,Computer Hardware & Software,New York, NY,1,5,59000,85000,72000,3.0
+133,IT Services,New York, NY,50,100,59000,85000,72000,75.0
+134,TV Broadcast & Cable Networks,New York, NY,5,10,59000,85000,72000,7.5
+135,Gambling,Jersey City, NJ,2000,5000,59000,85000,72000,3500.0
+136,Video Games,New York, NY,10,25,59000,85000,72000,17.5
+138,IT Services,New York, NY,100,500,59000,85000,72000,300.0
+141,Colleges & Universities,New York, NY,2000,5000,59000,85000,72000,3500.0
+142,IT Services,New York, NY,10,25,59000,85000,72000,17.5
+144,Colleges & Universities,New York, NY,100,500,59000,85000,72000,300.0
+146,Consulting,New York, NY,5,10,59000,85000,72000,7.5
+147,Internet,New York, NY,10000,10000,59000,85000,72000,10000.0
+150,Health Care Services & Hospitals,New York, NY,5000,10000,43000,76000,59500,7500.0
+152,Health Care Services & Hospitals,New York, NY,1000,2000,43000,76000,59500,1500.0
+154,IT Services,New York, NY,10,25,43000,76000,59500,17.5
+156,Social Assistance,New York, NY,10,25,43000,76000,59500,17.5
+158,Health Care Services & Hospitals,New York, NY,1000,2000,43000,76000,59500,1500.0
+159,Health Care Services & Hospitals,New York, NY,25,50,43000,76000,59500,37.5
+160,"Health, Beauty, & Fitness",Newark, NJ,10,25,43000,76000,59500,17.5
+164,IT Services,New York, NY,10,25,43000,76000,59500,17.5
+165,Video Games,New York, NY,10,25,43000,76000,59500,17.5
+168,Consulting,New York, NY,100,500,43000,76000,59500,300.0
+169,Social Assistance,Brooklyn, NY,25,50,43000,76000,59500,37.5
+170,IT Services,Weehawken, NJ,1,5,43000,76000,59500,3.0
+171,IT Services,New York, NY,100,500,43000,76000,59500,300.0
+173,Investment Banking & Asset Management,New York, NY,10000,10000,43000,76000,59500,10000.0
+175,Consulting,Haworth, NJ,50,100,43000,76000,59500,75.0
+176,Banks & Credit Unions,Fort Lee, NJ,50,100,43000,76000,59500,75.0
+177,TV Broadcast & Cable Networks,New York, NY,10000,10000,43000,76000,59500,10000.0
+180,IT Services,New York, NY,500,1000,43000,76000,59500,750.0
+181,Accounting,New York, NY,1,1,60000,110000,85000,1.0
+184,IT Services,New York, NY,25,50,60000,110000,85000,37.5
+185,Consulting,New York, NY,10,25,60000,110000,85000,17.5
+187,Staffing & Outsourcing,Jersey City, NJ,50,100,60000,110000,85000,75.0
+188,Investment Banking & Asset Management,New York, NY,10000,10000,60000,110000,85000,10000.0
+189,Social Assistance,New York, NY,25,50,60000,110000,85000,37.5
+190,Staffing & Outsourcing,New York, NY,50,100,60000,110000,85000,75.0
+191,Investment Banking & Asset Management,Weehawken, NJ,10000,10000,60000,110000,85000,10000.0
+192,Video Games,New York, NY,1000,2000,60000,110000,85000,1500.0
+193,Consulting,New York, NY,10,25,60000,110000,85000,17.5
+195,Investment Banking & Asset Management,New York, NY,10000,10000,60000,110000,85000,10000.0
+197,Health Care Services & Hospitals,New York, NY,500,1000,60000,110000,85000,750.0
+198,IT Services,Jersey City, NJ,100,500,60000,110000,85000,300.0
+200,Health Care Services & Hospitals,New York, NY,2000,5000,60000,110000,85000,3500.0
+201,Consulting,New York, NY,1,1,60000,110000,85000,1.0
+202,General Repair & Maintenance,New York, NY,1,5,60000,110000,85000,3.0
+206,Advertising & Marketing,New York, NY,1,5,60000,110000,85000,3.0
+208,IT Services,New York, NY,1,5,60000,110000,85000,3.0
+209,Social Assistance,New York, NY,10,25,60000,110000,85000,17.5
+210,IT Services,New York, NY,1,1,60000,110000,85000,1.0
+211,IT Services,New York, NY,50,100,41000,78000,59500,75.0
+214,Computer Hardware & Software,New York, NY,25,50,41000,78000,59500,37.5
+215,Social Assistance,Bronx, NY,100,500,41000,78000,59500,300.0
+217,Staffing & Outsourcing,New York, NY,1,5,41000,78000,59500,3.0
+218,Investment Banking & Asset Management,New York, NY,10000,10000,41000,78000,59500,10000.0
+219,Motion Picture Production & Distribution,New York, NY,10000,10000,41000,78000,59500,10000.0
+220,IT Services,New York, NY,10000,10000,41000,78000,59500,10000.0
+221,Staffing & Outsourcing,Jersey City, NJ,50,100,41000,78000,59500,75.0
+223,Consulting,Little Ferry, NJ,10,25,41000,78000,59500,17.5
+224,Staffing & Outsourcing,New York, NY,25,50,41000,78000,59500,37.5
+226,Computer Hardware & Software,New York, NY,5,10,41000,78000,59500,7.5
+228,Security Services,New York, NY,2000,5000,41000,78000,59500,3500.0
+229,IT Services,Newark, NJ,10,25,41000,78000,59500,17.5
+232,Staffing & Outsourcing,Jersey City, NJ,100,500,41000,78000,59500,300.0
+233,Computer Hardware & Software,Jersey City, NJ,25,50,41000,78000,59500,37.5
+235,Enterprise Software & Network Solutions,New York, NY,100,500,41000,78000,59500,300.0
+237,Health Care Services & Hospitals,New York, NY,500,1000,41000,78000,59500,750.0
+238,Advertising & Marketing,Lake Success, NY,1,1,41000,78000,59500,1.0
+239,Investment Banking & Asset Management,New York, NY,10000,10000,41000,78000,59500,10000.0
+240,Enterprise Software & Network Solutions,Jersey City, NJ,10000,10000,45000,88000,66500,10000.0
+241,Health Care Services & Hospitals,Lake Success, NY,50,100,45000,88000,66500,75.0
+243,Investment Banking & Asset Management,New York, NY,2000,5000,45000,88000,66500,3500.0
+245,Health Care Services & Hospitals,New York, NY,500,1000,45000,88000,66500,750.0
+246,Insurance Carriers,Newark, NJ,10000,10000,45000,88000,66500,10000.0
+248,Colleges & Universities,New York, NY,2000,5000,45000,88000,66500,3500.0
+249,Motion Picture Production & Distribution,New York, NY,10000,10000,45000,88000,66500,10000.0
+250,IT Services,New York, NY,100,500,45000,88000,66500,300.0
+251,Enterprise Software & Network Solutions,New York, NY,10000,10000,73000,127000,100000,10000.0
+254,IT Services,New York, NY,500,1000,73000,127000,100000,750.0
+256,Investment Banking & Asset Management,New York, NY,10000,10000,73000,127000,100000,10000.0
+257,Staffing & Outsourcing,New York, NY,500,1000,73000,127000,100000,750.0
+260,Advertising & Marketing,New York, NY,1,5,73000,127000,100000,3.0
+261,Consulting,Summit, NJ,10,25,73000,127000,100000,17.5
+262,Staffing & Outsourcing,New York, NY,25,50,73000,127000,100000,37.5
+264,IT Services,New York, NY,50,100,73000,127000,100000,75.0
+265,Accounting,New York, NY,1,1,84000,90000,87000,1.0
+266,Computer Hardware & Software,New York, NY,1,1,84000,90000,87000,1.0
+268,IT Services,New York, NY,100,500,84000,90000,87000,300.0
+269,Staffing & Outsourcing,Haworth, NJ,5,10,84000,90000,87000,7.5
+270,News Outlet,New York, NY,1000,2000,84000,90000,87000,1500.0
+273,Staffing & Outsourcing,New York, NY,100,500,84000,90000,87000,300.0
+274,IT Services,New York, NY,100,500,84000,90000,87000,300.0
+277,Health Care Services & Hospitals,Manhasset, NY,10000,10000,84000,90000,87000,10000.0
+280,Consulting,New York, NY,1000,2000,84000,90000,87000,1500.0
+282,Computer Hardware & Software,Jersey City, NJ,25,50,84000,90000,87000,37.5
+285,Health Care Services & Hospitals,New York, NY,50,100,27000,52000,39500,75.0
+286,IT Services,New York, NY,500,1000,27000,52000,39500,750.0
+287,Investment Banking & Asset Management,New York, NY,10000,10000,27000,52000,39500,10000.0
+288,Banks & Credit Unions,New York, NY,5000,10000,27000,52000,39500,7500.0
+290,Enterprise Software & Network Solutions,New York, NY,10000,10000,27000,52000,39500,10000.0
+292,Advertising & Marketing,New York, NY,100,500,27000,52000,39500,300.0
+293,Health Care Services & Hospitals,New York, NY,50,100,27000,52000,39500,75.0
+294,IT Services,New York, NY,50,100,27000,52000,39500,75.0
+295,Investment Banking & Asset Management,New York, NY,100,500,27000,52000,39500,300.0
+296,Staffing & Outsourcing,Summit, NJ,1000,2000,27000,52000,39500,1500.0
+297,Biotech & Pharmaceuticals,Berkeley Heights, NJ,2000,5000,27000,52000,39500,3500.0
+298,Investment Banking & Asset Management,Jersey City, NJ,10000,10000,27000,52000,39500,10000.0
+299,Health Care Services & Hospitals,New York, NY,500,1000,27000,52000,39500,750.0
+300,Investment Banking & Asset Management,Jersey City, NJ,10000,10000,27000,52000,39500,10000.0
+302,Investment Banking & Asset Management,Brooklyn, NY,10000,10000,27000,52000,39500,10000.0
+303,Staffing & Outsourcing,Jersey City, NJ,100,500,27000,52000,39500,300.0
+304,Social Assistance,Essex Fells, NJ,50,100,27000,52000,39500,75.0
+305,Video Games,New York, NY,10,25,27000,52000,39500,17.5
+306,Computer Hardware & Software,Jersey City, NJ,25,50,27000,52000,39500,37.5
+307,IT Services,New York, NY,5,10,27000,52000,39500,7.5
+309,Publishing,New York, NY,2000,5000,27000,52000,39500,3500.0
+310,Health Care Services & Hospitals,New York, NY,500,1000,27000,52000,39500,750.0
+312,IT Services,Franklin Lakes, NJ,25,50,27000,52000,39500,37.5
+314,IT Services,New York, NY,50,100,42000,74000,58000,75.0
+317,Investment Banking & Asset Management,Newark, NJ,10000,10000,42000,74000,58000,10000.0
+318,Health Care Services & Hospitals,New York, NY,10,25,42000,74000,58000,17.5
+319,Social Assistance,New York, NY,100,500,42000,74000,58000,300.0
+320,Health Care Services & Hospitals,New York, NY,500,1000,42000,74000,58000,750.0
+321,IT Services,New York, NY,100,500,42000,74000,58000,300.0
+323,Enterprise Software & Network Solutions,Jersey City, NJ,10,25,42000,74000,58000,17.5
+324,Insurance Carriers,New York, NY,100,500,42000,74000,58000,300.0
+326,IT Services,New York, NY,2000,5000,42000,74000,58000,3500.0
+329,Investment Banking & Asset Management,New York, NY,10000,10000,42000,74000,58000,10000.0
+331,Insurance Carriers,New York, NY,5000,10000,42000,74000,58000,7500.0
+332,IT Services,New York, NY,50,100,42000,74000,58000,75.0
+333,IT Services,New York, NY,50,100,42000,74000,58000,75.0
+335,IT Services,New York, NY,50,100,42000,74000,58000,75.0
+336,Health Fundraising Organizations,New York, NY,25,50,42000,74000,58000,37.5
+338,Insurance Carriers,Newark, NJ,10000,10000,42000,74000,58000,10000.0
+339,Health Care Services & Hospitals,Lake Success, NY,50,100,42000,74000,58000,75.0
+340,Internet,New York, NY,2000,5000,77000,132000,104500,3500.0
+341,Insurance Carriers,New York, NY,5000,10000,77000,132000,104500,7500.0
+345,Investment Banking & Asset Management,New York, NY,5000,10000,77000,132000,104500,7500.0
+346,IT Services,New York, NY,50,100,77000,132000,104500,75.0
+347,Computer Hardware & Software,New York, NY,1,5,77000,132000,104500,3.0
+348,Staffing & Outsourcing,New York, NY,1,5,77000,132000,104500,3.0
+349,Enterprise Software & Network Solutions,New York, NY,50,100,77000,132000,104500,75.0
+351,Staffing & Outsourcing,Jersey City, NJ,2000,5000,77000,132000,104500,3500.0
+352,Health Care Services & Hospitals,New York, NY,100,500,77000,132000,104500,300.0
+353,Health Care Services & Hospitals,Secaucus, NJ,5000,10000,77000,132000,104500,7500.0
+358,Utilities,Brooklyn, NY,5000,10000,77000,132000,104500,7500.0
+360,Advertising & Marketing,New York, NY,2000,5000,77000,132000,104500,3500.0
+361,Computer Hardware & Software,Jersey City, NJ,25,50,77000,132000,104500,37.5
+362,Investment Banking & Asset Management,Newark, NJ,10000,10000,77000,132000,104500,10000.0
+363,Consulting,New York, NY,5,10,77000,132000,104500,7.5
+365,Health Care Services & Hospitals,New York, NY,5000,10000,77000,132000,104500,7500.0
+366,Advertising & Marketing,Lake Success, NY,1,1,77000,132000,104500,1.0
+368,Investment Banking & Asset Management,Jersey City, NJ,10000,10000,77000,132000,104500,10000.0
+370,IT Services,Florham Park, NJ,50,100,98000,114000,106000,75.0
+371,Investment Banking & Asset Management,New York, NY,5000,10000,98000,114000,106000,7500.0
+372,Investment Banking & Asset Management,Florham Park, NJ,10000,10000,98000,114000,106000,10000.0
+373,Insurance Carriers,Woodbridge, NJ,10,25,98000,114000,106000,17.5
+374,Health Care Services & Hospitals,New York, NY,1000,2000,98000,114000,106000,1500.0
+375,Health Care Services & Hospitals,New York, NY,50,100,98000,114000,106000,75.0
+377,Staffing & Outsourcing,New York, NY,50,100,98000,114000,106000,75.0
+378,Enterprise Software & Network Solutions,New York, NY,10000,10000,98000,114000,106000,10000.0
+379,Health Care Services & Hospitals,New York, NY,2000,5000,98000,114000,106000,3500.0
+380,IT Services,Whippany, NJ,50,100,98000,114000,106000,75.0
+381,IT Services,New York, NY,1,1,98000,114000,106000,1.0
+386,Computer Hardware & Software,New York, NY,1,5,98000,114000,106000,3.0
+387,Investment Banking & Asset Management,Florham Park, NJ,10000,10000,98000,114000,106000,10000.0
+389,Health Care Services & Hospitals,Lake Success, NY,50,100,98000,114000,106000,75.0
+393,Staffing & Outsourcing,Hoboken, NJ,100,500,98000,114000,106000,300.0
+394,Advertising & Marketing,New York, NY,1,5,98000,114000,106000,3.0
+395,Consulting,New York, NY,10,25,98000,114000,106000,17.5
+397,Health Care Services & Hospitals,West Orange, NJ,1000,2000,98000,114000,106000,1500.0
+398,IT Services,New York, NY,50,100,98000,114000,106000,75.0
+399,Consumer Products Manufacturing,New York, NY,5,10,48000,96000,72000,7.5
+400,Enterprise Software & Network Solutions,Jersey City, NJ,10000,10000,48000,96000,72000,10000.0
+405,Accounting,Harrison, NY,1,1,48000,96000,72000,1.0
+406,Investment Banking & Asset Management,Florham Park, NJ,10000,10000,48000,96000,72000,10000.0
+407,Staffing & Outsourcing,Jersey City, NJ,10,25,48000,96000,72000,17.5
+409,IT Services,New York, NY,50,100,48000,96000,72000,75.0
+410,Investment Banking & Asset Management,New York, NY,10000,10000,48000,96000,72000,10000.0
+411,Lending,Iselin, NJ,10000,10000,48000,96000,72000,10000.0
+412,IT Services,Montvale, NJ,1000,2000,48000,96000,72000,1500.0
+415,Consulting,New York, NY,10,25,48000,96000,72000,17.5
+416,IT Services,Brooklyn, NY,50,100,48000,96000,72000,75.0
+422,Electrical & Electronic Manufacturing,West Jordan, UT,5,10,26000,47000,36500,7.5
+423,Colleges & Universities,Salt Lake City, UT,2000,5000,26000,47000,36500,3500.0
+424,Computer Hardware & Software,Salt Lake City, UT,100,500,26000,47000,36500,300.0
+425,Consulting,Salt Lake City, UT,1,5,26000,47000,36500,3.0
+427,Consulting,Salt Lake City, UT,50,100,26000,47000,36500,75.0
+430,Staffing & Outsourcing,Salt Lake City, UT,25,50,26000,47000,36500,37.5
+431,Investment Banking & Asset Management,Salt Lake City, UT,10000,10000,26000,47000,36500,10000.0
+433,Staffing & Outsourcing,Salt Lake City, UT,25,50,26000,47000,36500,37.5
+434,Consumer Products Manufacturing,Salt Lake City, UT,50,100,26000,47000,36500,75.0
+437,IT Services,Salt Lake City, UT,5,10,26000,47000,36500,7.5
+438,Internet,Salt Lake City, UT,100,500,26000,47000,36500,300.0
+441,Computer Hardware & Software,Draper, UT,1000,2000,26000,47000,36500,1500.0
+442,Industrial Manufacturing,Lehi, UT,100,500,26000,47000,36500,300.0
+443,IT Services,American Fork, UT,10,25,26000,47000,36500,17.5
+447,Energy,Lehi, UT,50,100,26000,47000,36500,75.0
+448,Consulting,Riverton, UT,5,10,26000,47000,36500,7.5
+450,Accounting,Salt Lake City, UT,25,50,31000,59000,45000,37.5
+451,Energy,Lehi, UT,50,100,31000,59000,45000,75.0
+452,IT Services,Salt Lake City, UT,5,10,31000,59000,45000,7.5
+454,Staffing & Outsourcing,Reedley, CA,2000,5000,47000,81000,64000,3500.0
+455,Preschool & Child Care,Visalia, CA,1,5,47000,81000,64000,3.0
+456,Social Assistance,Hanford, CA,50,100,47000,81000,64000,75.0
+457,Aerospace & Defense,Hampton, VA,50,100,43000,69000,56000,75.0
+458,Colleges & Universities,Hampton, VA,100,500,43000,69000,56000,300.0
+459,Consulting,Norfolk, VA,25,50,43000,69000,56000,37.5
+460,Social Assistance,Hampton, VA,50,100,43000,69000,56000,75.0
+461,IT Services,Hampton, VA,50,100,43000,69000,56000,75.0
+462,Architectural & Engineering Services,Portsmouth, VA,10,25,43000,69000,56000,17.5
+465,Social Assistance,Norfolk, VA,5,10,43000,69000,56000,7.5
+466,IT Services,Hampton, VA,50,100,43000,69000,56000,75.0
+467,Architectural & Engineering Services,Portsmouth, VA,10,25,43000,69000,56000,17.5
+469,Food & Beverage Manufacturing,Smithfield, VA,10000,10000,43000,69000,56000,10000.0
+470,Consulting,Suffolk, VA,5000,10000,43000,69000,56000,7500.0
+472,Commercial Equipment Repair & Maintenance,Norfolk, VA,100,500,43000,69000,56000,300.0
+473,IT Services,Hampton, VA,100,500,43000,69000,56000,300.0
+475,IT Services,Hampton, VA,50,100,43000,69000,56000,75.0
+476,Accounting,Newport News, VA,10,25,43000,69000,56000,17.5
+477,IT Services,Hampton, VA,100,500,43000,69000,56000,300.0
+478,Architectural & Engineering Services,Portsmouth, VA,10,25,43000,69000,56000,17.5
+480,Staffing & Outsourcing,Hampton, VA,5,10,43000,69000,56000,7.5
+481,IT Services,Hampton, VA,100,500,43000,69000,56000,300.0
+482,Telecommunications Services,Norfolk, VA,10,25,43000,69000,56000,17.5
+483,Consulting,Virginia Beach, VA,5,10,43000,69000,56000,7.5
+484,Consulting,Hampton, VA,10,25,43000,69000,56000,17.5
+485,Aerospace & Defense,Yorktown, VA,10,25,43000,69000,56000,17.5
+486,Architectural & Engineering Services,Portsmouth, VA,10,25,43000,69000,56000,17.5
+487,IT Services,Hampton, VA,100,500,49000,112000,80500,300.0
+489,Consulting,Hampton, VA,10,25,49000,112000,80500,17.5
+492,Telecommunications Services,Norfolk, VA,10,25,49000,112000,80500,17.5
+494,Consulting,Fort Eustis, VA,10,25,49000,112000,80500,17.5
+497,Commercial Equipment Repair & Maintenance,Norfolk, VA,100,500,49000,112000,80500,300.0
+498,Aerospace & Defense,Norfolk, VA,2000,5000,49000,112000,80500,3500.0
+501,Building & Personnel Services,Chesapeake, VA,100,500,49000,112000,80500,300.0
+503,IT Services,Norfolk, VA,25,50,49000,112000,80500,37.5
+504,IT Services,Norfolk, VA,25,50,49000,112000,80500,37.5
+505,IT Services,Gainesville, FL,50,100,30000,54000,42000,75.0
+506,IT Services,Gainesville, FL,50,100,30000,54000,42000,75.0
+507,Colleges & Universities,Gainesville, FL,1000,2000,30000,54000,42000,1500.0
+508,Insurance Carriers,Gainesville, FL,500,1000,30000,54000,42000,750.0
+509,Health Care Services & Hospitals,Alachua, FL,500,1000,30000,54000,42000,750.0
+510,IT Services,Gainesville, FL,50,100,30000,54000,42000,75.0
+511,IT Services,Gainesville, FL,50,100,30000,54000,42000,75.0
+512,Health Care Services & Hospitals,Gainesville, FL,500,1000,30000,54000,42000,750.0
+513,Computer Hardware & Software,El Segundo, CA,100,500,55000,103000,79000,300.0
+515,Internet,Los Angeles, CA,500,1000,55000,103000,79000,750.0
+516,Enterprise Software & Network Solutions,Los Angeles, CA,1,5,55000,103000,79000,3.0
+518,IT Services,Los Angeles, CA,50,100,55000,103000,79000,75.0
+520,Internet,Los Angeles, CA,1,5,55000,103000,79000,3.0
+522,Staffing & Outsourcing,Burbank, CA,50,100,55000,103000,79000,75.0
+524,Federal Agencies,Los Angeles, CA,10,25,55000,103000,79000,17.5
+525,Staffing & Outsourcing,Los Angeles, CA,25,50,55000,103000,79000,37.5
+528,Accounting,Los Angeles, CA,1,1,55000,103000,79000,1.0
+530,Staffing & Outsourcing,Culver City, CA,100,500,55000,103000,79000,300.0
+533,IT Services,Los Angeles, CA,5,10,55000,103000,79000,7.5
+534,Health Care Services & Hospitals,Los Angeles, CA,2000,5000,55000,103000,79000,3500.0
+536,Staffing & Outsourcing,El Segundo, CA,2000,5000,55000,103000,79000,3500.0
+544,Construction,Los Angeles, CA,2000,5000,37000,70000,53500,3500.0
+545,Consulting,Los Angeles, CA,10,25,37000,70000,53500,17.5
+546,IT Services,Glendale, CA,5,10,37000,70000,53500,7.5
+548,Health Care Services & Hospitals,Los Angeles, CA,2000,5000,37000,70000,53500,3500.0
+552,TV Broadcast & Cable Networks,Santa Monica, CA,1000,2000,37000,70000,53500,1500.0
+553,Consulting,El Segundo, CA,5,10,37000,70000,53500,7.5
+554,Colleges & Universities,Los Angeles, CA,2000,5000,37000,70000,53500,3500.0
+555,Consulting,Cerritos, CA,50,100,37000,70000,53500,75.0
+557,Motion Picture Production & Distribution,Burbank, CA,10000,10000,37000,70000,53500,10000.0
+559,Construction,Irwindale, CA,10,25,37000,70000,53500,17.5
+560,Video Games,Los Angeles, CA,2000,5000,37000,70000,53500,3500.0
+561,Health Care Services & Hospitals,Los Angeles, CA,2000,5000,37000,70000,53500,3500.0
+562,Investment Banking & Asset Management,Los Angeles, CA,1000,2000,37000,70000,53500,1500.0
+563,TV Broadcast & Cable Networks,Burbank, CA,10000,10000,37000,70000,53500,10000.0
+564,Health Care Services & Hospitals,Los Angeles, CA,1000,2000,37000,70000,53500,1500.0
+566,Investment Banking & Asset Management,Pasadena, CA,2000,5000,37000,70000,53500,3500.0
+567,Publishing,Anaheim, CA,50,100,37000,70000,53500,75.0
+569,Financial Transaction Processing,El Segundo, CA,2000,5000,37000,70000,53500,3500.0
+570,IT Services,Los Angeles, CA,50,100,37000,70000,53500,75.0
+571,Consulting,Irwindale, CA,10,25,57000,103000,80000,17.5
+573,Federal Agencies,Los Angeles, CA,10,25,57000,103000,80000,17.5
+574,Health Care Services & Hospitals,Beverly Hills, CA,2000,5000,57000,103000,80000,3500.0
+582,Enterprise Software & Network Solutions,Los Angeles, CA,25,50,57000,103000,80000,37.5
+586,Internet,Los Angeles, CA,5000,10000,57000,103000,80000,7500.0
+587,Health Care Services & Hospitals,Los Angeles, CA,2000,5000,57000,103000,80000,3500.0
+588,Biotech & Pharmaceuticals,Northridge, CA,25,50,57000,103000,80000,37.5
+589,Consulting,Los Angeles, CA,10,25,57000,103000,80000,17.5
+590,Internet,Los Angeles, CA,1000,2000,57000,103000,80000,1500.0
+591,Staffing & Outsourcing,Los Angeles, CA,2000,5000,57000,103000,80000,3500.0
+596,Staffing & Outsourcing,Los Angeles, CA,2000,5000,57000,103000,80000,3500.0
+597,Video Games,El Segundo, CA,5000,10000,57000,103000,80000,7500.0
+600,IT Services,Los Angeles, CA,50,100,35000,45000,40000,75.0
+602,Health Care Services & Hospitals,Pasadena, CA,10000,10000,35000,45000,40000,10000.0
+604,Aerospace & Defense,El Segundo, CA,50,100,35000,45000,40000,75.0
+611,Internet,Los Angeles, CA,1000,2000,35000,45000,40000,1500.0
+613,Staffing & Outsourcing,Los Angeles, CA,1000,2000,35000,45000,40000,1500.0
+615,TV Broadcast & Cable Networks,Burbank, CA,10000,10000,35000,45000,40000,10000.0
+616,Insurance Carriers,Long Beach, CA,10000,10000,35000,45000,40000,10000.0
+618,Staffing & Outsourcing,Los Angeles, CA,100,500,35000,45000,40000,300.0
+619,IT Services,Los Angeles, CA,10000,10000,35000,45000,40000,10000.0
+620,Consumer Products Manufacturing,Los Angeles, CA,2000,5000,35000,45000,40000,3500.0
+621,Staffing & Outsourcing,Los Angeles, CA,25,50,35000,45000,40000,37.5
+625,Insurance Carriers,Brea, CA,2000,5000,35000,45000,40000,3500.0
+626,Insurance Carriers,Long Beach, CA,10000,10000,35000,45000,40000,10000.0
+630,Staffing & Outsourcing,Woodland Hills, CA,100,500,42000,66000,54000,300.0
+632,IT Services,Los Angeles, CA,25,50,42000,66000,54000,37.5
+634,Computer Hardware & Software,Burbank, CA,25,50,42000,66000,54000,37.5
+636,Health Care Services & Hospitals,Glendale, CA,1,5,42000,66000,54000,3.0
+637,Staffing & Outsourcing,Santa Monica, CA,10,25,42000,66000,54000,17.5
+638,Staffing & Outsourcing,Pasadena, CA,100,500,42000,66000,54000,300.0
+640,"Health, Beauty, & Fitness",Pasadena, CA,1,1,42000,66000,54000,1.0
+641,Aerospace & Defense,Woodland Hills, CA,10000,10000,42000,66000,54000,10000.0
+642,Staffing & Outsourcing,Burbank, CA,50,100,42000,66000,54000,75.0
+643,IT Services,Los Angeles, CA,10,25,42000,66000,54000,17.5
+645,Computer Hardware & Software,Culver City, CA,10000,10000,42000,66000,54000,10000.0
+646,IT Services,Cerritos, CA,1,5,42000,66000,54000,3.0
+654,Automotive Parts & Accessories Stores,Torrance, CA,100,500,42000,66000,54000,300.0
+655,Internet,Los Angeles, CA,10,25,42000,66000,54000,17.5
+657,Insurance Carriers,Long Beach, CA,10000,10000,42000,66000,54000,10000.0
+662,Industrial Manufacturing,Long Beach, CA,100,500,65000,81000,73000,300.0
+664,Consulting,Azusa, CA,10,25,65000,81000,73000,17.5
+665,Consulting,Burbank, CA,5,10,65000,81000,73000,7.5
+666,Consulting,El Segundo, CA,5,10,65000,81000,73000,7.5
+667,Consumer Products Manufacturing,Marina del Rey, CA,10000,10000,65000,81000,73000,10000.0
+668,Insurance Carriers,Woodland Hills, CA,10000,10000,65000,81000,73000,10000.0
+670,Chemical Manufacturing,Long Beach, CA,5000,10000,65000,81000,73000,7500.0
+671,Venture Capital & Private Equity,El Segundo, CA,1000,2000,65000,81000,73000,1500.0
+676,K-12 Education,Los Angeles, CA,50,100,65000,81000,73000,75.0
+677,Staffing & Outsourcing,Glendale, CA,100,500,65000,81000,73000,300.0
+678,Venture Capital & Private Equity,El Segundo, CA,1000,2000,65000,81000,73000,1500.0
+680,Insurance Carriers,Long Beach, CA,2000,5000,65000,81000,73000,3500.0
+682,Insurance Carriers,Long Beach, CA,10000,10000,65000,81000,73000,10000.0
+683,Consumer Products Manufacturing,Los Angeles, CA,10,25,65000,81000,73000,17.5
+687,Health Care Services & Hospitals,Arcadia, CA,50,100,113000,132000,122500,75.0
+695,Insurance Carriers,Long Beach, CA,2000,5000,113000,132000,122500,3500.0
+696,Staffing & Outsourcing,Woodland Hills, CA,1000,2000,113000,132000,122500,1500.0
+697,Consulting,El Segundo, CA,5,10,113000,132000,122500,7.5
+699,Accounting,Arcadia, CA,1,1,113000,132000,122500,1.0
+700,Insurance Carriers,Woodland Hills, CA,10000,10000,113000,132000,122500,10000.0
+702,IT Services,Burbank, CA,10,25,113000,132000,122500,17.5
+703,Motion Picture Production & Distribution,Burbank, CA,10000,10000,113000,132000,122500,10000.0
+704,Health Care Services & Hospitals,Gardena, CA,100,500,113000,132000,122500,300.0
+705,Insurance Carriers,Long Beach, CA,10000,10000,113000,132000,122500,10000.0
+706,Insurance Carriers,Long Beach, CA,10000,10000,113000,132000,122500,10000.0
+708,TV Broadcast & Cable Networks,Burbank, CA,10000,10000,113000,132000,122500,10000.0
+709,Staffing & Outsourcing,Woodland Hills, CA,1000,2000,113000,132000,122500,1500.0
+712,Health Care Services & Hospitals,Whittier, CA,1000,2000,113000,132000,122500,1500.0
+715,Insurance Carriers,Brea, CA,2000,5000,113000,132000,122500,3500.0
+720,Banks & Credit Unions,Chicago, IL,500,1000,60000,66000,63000,750.0
+722,Enterprise Software & Network Solutions,Chicago, IL,100,500,60000,66000,63000,300.0
+723,Consulting,Chicago, IL,100,500,60000,66000,63000,300.0
+725,Staffing & Outsourcing,Downers Grove, IL,5000,10000,60000,66000,63000,7500.0
+726,Staffing & Outsourcing,Chicago, IL,5000,10000,60000,66000,63000,7500.0
+729,Computer Hardware & Software,Chicago, IL,1000,2000,60000,66000,63000,1500.0
+730,Transportation Management,Chicago, IL,100,500,60000,66000,63000,300.0
+731,Colleges & Universities,Chicago, IL,2000,5000,60000,66000,63000,3500.0
+732,Staffing & Outsourcing,Chicago, IL,100,500,60000,66000,63000,300.0
+734,Staffing & Outsourcing,Downers Grove, IL,50,100,60000,66000,63000,75.0
+735,Staffing & Outsourcing,Downers Grove, IL,50,100,60000,66000,63000,75.0
+736,Miscellaneous Manufacturing,Broadview, IL,10000,10000,60000,66000,63000,10000.0
+737,Financial Transaction Processing,Chicago, IL,1000,2000,60000,66000,63000,1500.0
+738,Social Assistance,Chicago, IL,2000,5000,60000,66000,63000,3500.0
+739,Staffing & Outsourcing,Chicago, IL,10,25,60000,66000,63000,17.5
+740,Computer Hardware & Software,Chicago, IL,25,50,60000,66000,63000,37.5
+741,Banks & Credit Unions,Chicago, IL,2000,5000,60000,66000,63000,3500.0
+742,Staffing & Outsourcing,Downers Grove, IL,1000,2000,60000,66000,63000,1500.0
+743,Consumer Products Manufacturing,Broadview, IL,500,1000,60000,66000,63000,750.0
+747,Consulting,Chicago, IL,1000,2000,60000,66000,63000,1500.0
+748,Banks & Credit Unions,Chicago, IL,10000,10000,60000,66000,63000,10000.0
+749,Banks & Credit Unions,Chicago, IL,2000,5000,60000,66000,63000,3500.0
+750,IT Services,Chicago, IL,1000,2000,73000,82000,77500,1500.0
+752,Miscellaneous Manufacturing,Woodridge, IL,10000,10000,73000,82000,77500,10000.0
+754,Health Care Services & Hospitals,Chicago, IL,500,1000,73000,82000,77500,750.0
+755,Staffing & Outsourcing,Chicago, IL,2000,5000,73000,82000,77500,3500.0
+757,Consumer Products Manufacturing,Chicago, IL,2000,5000,73000,82000,77500,3500.0
+758,Staffing & Outsourcing,Downers Grove, IL,5,10,73000,82000,77500,7.5
+759,IT Services,Chicago, IL,50,100,73000,82000,77500,75.0
+760,Logistics & Supply Chain,Chicago, IL,500,1000,73000,82000,77500,750.0
+768,IT Services,Chicago, IL,100,500,73000,82000,77500,300.0
+769,IT Services,Chicago, IL,50,100,73000,82000,77500,75.0
+770,Staffing & Outsourcing,Chicago, IL,10,25,73000,82000,77500,17.5
+774,IT Services,Chicago, IL,25,50,73000,82000,77500,37.5
+775,Enterprise Software & Network Solutions,Chicago, IL,1,5,73000,82000,77500,3.0
+776,Staffing & Outsourcing,Chicago, IL,2000,5000,73000,82000,77500,3500.0
+778,Lending,Chicago, IL,50,100,73000,82000,77500,75.0
+780,Accounting,Chicago, IL,1,1,67000,92000,79500,1.0
+781,Health Care Services & Hospitals,Chicago, IL,1000,2000,67000,92000,79500,1500.0
+782,Staffing & Outsourcing,Chicago, IL,100,500,67000,92000,79500,300.0
+783,Banks & Credit Unions,Rolling Meadows, IL,100,500,67000,92000,79500,300.0
+785,Colleges & Universities,Chicago, IL,2000,5000,67000,92000,79500,3500.0
+791,Energy,Chicago, IL,50,100,67000,92000,79500,75.0
+792,Accounting,Chicago, IL,10000,10000,67000,92000,79500,10000.0
+793,Construction,Chicago, IL,1,1,67000,92000,79500,1.0
+796,Logistics & Supply Chain,Chicago, IL,1000,2000,67000,92000,79500,1500.0
+797,IT Services,Chicago, IL,100,500,67000,92000,79500,300.0
+798,Staffing & Outsourcing,Chicago, IL,100,500,67000,92000,79500,300.0
+799,Other Retail Stores,Northlake, IL,500,1000,67000,92000,79500,750.0
+801,IT Services,Northbrook, IL,100,500,67000,92000,79500,300.0
+802,IT Services,Chicago, IL,1,1,67000,92000,79500,1.0
+803,Banks & Credit Unions,Chicago, IL,10000,10000,67000,92000,79500,10000.0
+804,Legal,Chicago, IL,1000,2000,67000,92000,79500,1500.0
+806,Venture Capital & Private Equity,Chicago, IL,100,500,67000,92000,79500,300.0
+807,Advertising & Marketing,Itasca, IL,25,50,67000,92000,79500,37.5
+808,Consulting,Chicago, IL,10000,10000,42000,76000,59000,10000.0
+809,Staffing & Outsourcing,Evanston, IL,1000,2000,42000,76000,59000,1500.0
+810,Social Assistance,Chicago, IL,25,50,42000,76000,59000,37.5
+813,Food & Beverage Manufacturing,Bridgeview, IL,100,500,42000,76000,59000,300.0
+814,Biotech & Pharmaceuticals,Chicago, IL,2000,5000,42000,76000,59000,3500.0
+815,Staffing & Outsourcing,Downers Grove, IL,50,100,42000,76000,59000,75.0
+817,Food & Beverage Manufacturing,Oak Brook, IL,5000,10000,42000,76000,59000,7500.0
+818,Staffing & Outsourcing,Chicago, IL,10,25,42000,76000,59000,17.5
+820,IT Services,Chicago, IL,1,1,42000,76000,59000,1.0
+821,Staffing & Outsourcing,Northbrook, IL,100,500,42000,76000,59000,300.0
+822,Enterprise Software & Network Solutions,Woodridge, IL,1,1,42000,76000,59000,1.0
+823,Health Care Services & Hospitals,Chicago, IL,50,100,42000,76000,59000,75.0
+824,Catering & Food Service Contractors,Oak Brook, IL,50,100,42000,76000,59000,75.0
+826,Banks & Credit Unions,Chicago, IL,2000,5000,42000,76000,59000,3500.0
+827,Advertising & Marketing,Chicago, IL,1,1,42000,76000,59000,1.0
+828,K-12 Education,Chicago, IL,25,50,42000,76000,59000,37.5
+830,Banks & Credit Unions,Downers Grove, IL,50,100,42000,76000,59000,75.0
+831,IT Services,Chicago, IL,50,100,42000,76000,59000,75.0
+833,IT Services,Chicago, IL,50,100,42000,76000,59000,75.0
+835,Investment Banking & Asset Management,Chicago, IL,1,1,42000,76000,59000,1.0
+837,Investment Banking & Asset Management,Chicago, IL,1000,2000,42000,76000,59000,1500.0
+838,Consulting,Chicago, IL,50,100,97000,129000,113000,75.0
+840,Computer Hardware & Software,Chicago, IL,1,5,97000,129000,113000,3.0
+842,IT Services,Chicago, IL,25,50,97000,129000,113000,37.5
+843,Health Care Services & Hospitals,Maywood, IL,10,25,97000,129000,113000,17.5
+844,Computer Hardware & Software,Chicago, IL,5000,10000,97000,129000,113000,7500.0
+845,Health Care Products Manufacturing,Northfield, IL,10000,10000,97000,129000,113000,10000.0
+846,Enterprise Software & Network Solutions,Chicago, IL,10000,10000,97000,129000,113000,10000.0
+848,Industrial Manufacturing,Glenview, IL,2000,5000,97000,129000,113000,3500.0
+849,Consulting,Chicago, IL,1,1,97000,129000,113000,1.0
+851,Staffing & Outsourcing,Chicago, IL,2000,5000,97000,129000,113000,3500.0
+852,Staffing & Outsourcing,Chicago, IL,25,50,97000,129000,113000,37.5
+853,Staffing & Outsourcing,Chicago, IL,50,100,97000,129000,113000,75.0
+854,Staffing & Outsourcing,Chicago, IL,1,5,97000,129000,113000,3.0
+856,Drug & Health Stores,Deerfield, IL,10000,10000,97000,129000,113000,10000.0
+857,Financial Transaction Processing,Chicago, IL,1000,2000,97000,129000,113000,1500.0
+858,Wholesale,Elk Grove Village, IL,1,5,97000,129000,113000,3.0
+864,Staffing & Outsourcing,Chicago, IL,100,500,97000,129000,113000,300.0
+865,Membership Organizations,Chicago, IL,50,100,97000,129000,113000,75.0
+866,Logistics & Supply Chain,Chicago, IL,500,1000,97000,129000,113000,750.0
+868,Staffing & Outsourcing,Chicago, IL,100,500,68000,87000,77500,300.0
+871,Insurance Carriers,Chicago, IL,10000,10000,68000,87000,77500,10000.0
+877,IT Services,Chicago, IL,25,50,68000,87000,77500,37.5
+878,Accounting,Chicago, IL,5,10,68000,87000,77500,7.5
+879,Accounting,Arlington Heights, IL,1,1,68000,87000,77500,1.0
+880,Drug & Health Stores,Deerfield, IL,10000,10000,68000,87000,77500,10000.0
+882,Banks & Credit Unions,Downers Grove, IL,10000,10000,68000,87000,77500,10000.0
+883,Accounting,Chicago, IL,1,1,68000,87000,77500,1.0
+884,Wholesale,Houston, TX,1000,2000,29000,38000,33500,1500.0
+885,Investment Banking & Asset Management,Houston, TX,10,25,29000,38000,33500,17.5
+886,Legal,Houston, TX,1,5,29000,38000,33500,3.0
+887,Casual Restaurants,Houston, TX,1,5,29000,38000,33500,3.0
+888,Telecommunications Services,Houston, TX,2000,5000,29000,38000,33500,3500.0
+890,Staffing & Outsourcing,Houston, TX,100,500,29000,38000,33500,300.0
+892,Health Care Services & Hospitals,Houston, TX,100,500,29000,38000,33500,300.0
+895,Accounting,Houston, TX,50,100,29000,38000,33500,75.0
+896,Investment Banking & Asset Management,Houston, TX,10000,10000,29000,38000,33500,10000.0
+897,Wholesale,Houston, TX,100,500,29000,38000,33500,300.0
+899,Health Care Services & Hospitals,Pearland, TX,100,500,29000,38000,33500,300.0
+900,IT Services,Stafford, TX,1,5,29000,38000,33500,3.0
+901,Consulting,Houston, TX,1,1,29000,38000,33500,1.0
+903,Municipal Governments,Houston, TX,100,500,29000,38000,33500,300.0
+904,Oil & Gas Services,Houston, TX,100,500,29000,38000,33500,300.0
+908,Financial Transaction Processing,Houston, TX,10000,10000,29000,38000,33500,10000.0
+909,Staffing & Outsourcing,Houston, TX,100,500,29000,38000,33500,300.0
+910,Enterprise Software & Network Solutions,Houston, TX,100,500,29000,38000,33500,300.0
+911,Accounting,Houston, TX,1,1,29000,38000,33500,1.0
+912,IT Services,Houston, TX,1,5,29000,38000,33500,3.0
+913,IT Services,Houston, TX,1,1,47000,76000,61500,1.0
+914,IT Services,Houston, TX,50,100,47000,76000,61500,75.0
+916,Health Care Services & Hospitals,Houston, TX,50,100,47000,76000,61500,75.0
+917,IT Services,Houston, TX,1,5,47000,76000,61500,3.0
+919,Computer Hardware & Software,Houston, TX,25,50,47000,76000,61500,37.5
+921,Enterprise Software & Network Solutions,Houston, TX,10000,10000,47000,76000,61500,10000.0
+922,Consulting,Houston, TX,1000,2000,47000,76000,61500,1500.0
+923,Casual Restaurants,Houston, TX,1,5,47000,76000,61500,3.0
+924,Consulting,Houston, TX,100,500,47000,76000,61500,300.0
+927,Staffing & Outsourcing,Houston, TX,2000,5000,47000,76000,61500,3500.0
+928,Consulting,Houston, TX,1,1,47000,76000,61500,1.0
+929,Consulting,Houston, TX,1,5,47000,76000,61500,3.0
+930,Sporting Goods Stores,Houston, TX,1,1,47000,76000,61500,1.0
+931,Health Care Services & Hospitals,Houston, TX,100,500,47000,76000,61500,300.0
+932,IT Services,Houston, TX,1,1,47000,76000,61500,1.0
+934,Insurance Carriers,Houston, TX,10000,10000,47000,76000,61500,10000.0
+935,Staffing & Outsourcing,Houston, TX,50,100,47000,76000,61500,75.0
+937,Staffing & Outsourcing,Pasadena, TX,100,500,47000,76000,61500,300.0
+938,Insurance Carriers,Houston, TX,10000,10000,47000,76000,61500,10000.0
+939,Investment Banking & Asset Management,Houston, TX,10,25,47000,76000,61500,17.5
+940,Health Care Services & Hospitals,Pearland, TX,100,500,47000,76000,61500,300.0
+941,Health Care Services & Hospitals,Houston, TX,100,500,74000,123000,98500,300.0
+942,Staffing & Outsourcing,Houston, TX,1,1,74000,123000,98500,1.0
+943,Publishing,Houston, TX,1,1,74000,123000,98500,1.0
+947,Telecommunications Services,Houston, TX,2000,5000,74000,123000,98500,3500.0
+948,IT Services,Houston, TX,100,500,74000,123000,98500,300.0
+949,Enterprise Software & Network Solutions,Houston, TX,10,25,74000,123000,98500,17.5
+950,Health Care Services & Hospitals,Pearland, TX,100,500,74000,123000,98500,300.0
+952,Staffing & Outsourcing,Houston, TX,100,500,74000,123000,98500,300.0
+953,Colleges & Universities,Houston, TX,1000,2000,74000,123000,98500,1500.0
+954,Investment Banking & Asset Management,Houston, TX,10000,10000,74000,123000,98500,10000.0
+955,Health Care Services & Hospitals,Pearland, TX,100,500,74000,123000,98500,300.0
+957,Staffing & Outsourcing,Spring, TX,1,1,74000,123000,98500,1.0
+958,Health Care Services & Hospitals,Pearland, TX,100,500,74000,123000,98500,300.0
+959,Staffing & Outsourcing,Houston, TX,10,25,74000,123000,98500,17.5
+960,Staffing & Outsourcing,Sugar Land, TX,25,50,74000,123000,98500,37.5
+962,Staffing & Outsourcing,Houston, TX,50,100,74000,123000,98500,75.0
+963,Staffing & Outsourcing,Houston, TX,100,500,74000,123000,98500,300.0
+964,Consulting,Houston, TX,5,10,74000,123000,98500,7.5
+966,Banks & Credit Unions,Sugar Land, TX,100,500,74000,123000,98500,300.0
+967,IT Services,Houston, TX,1,5,74000,123000,98500,3.0
+968,Municipal Governments,Houston, TX,50,100,74000,123000,98500,75.0
+969,Banks & Credit Unions,Tempe, AZ,10000,10000,53000,94000,73500,10000.0
+970,Enterprise Software & Network Solutions,Phoenix, AZ,25,50,53000,94000,73500,37.5
+971,Banks & Credit Unions,Phoenix, AZ,50,100,53000,94000,73500,75.0
+972,Construction,Phoenix, AZ,100,500,53000,94000,73500,300.0
+973,Staffing & Outsourcing,Phoenix, AZ,100,500,53000,94000,73500,300.0
+974,Automotive Parts & Accessories Stores,Scottsdale, AZ,2000,5000,53000,94000,73500,3500.0
+975,Banks & Credit Unions,Phoenix, AZ,50,100,53000,94000,73500,75.0
+976,Staffing & Outsourcing,Phoenix, AZ,2000,5000,53000,94000,73500,3500.0
+977,Staffing & Outsourcing,Phoenix, AZ,10,25,53000,94000,73500,17.5
+978,Telecommunications Services,Phoenix, AZ,1000,2000,53000,94000,73500,1500.0
+979,Colleges & Universities,Scottsdale, AZ,100,500,53000,94000,73500,300.0
+982,Staffing & Outsourcing,Phoenix, AZ,500,1000,53000,94000,73500,750.0
+984,IT Services,Tempe, AZ,100,500,53000,94000,73500,300.0
+985,Social Assistance,Phoenix, AZ,1,5,53000,94000,73500,3.0
+987,Electrical & Electronic Manufacturing,Phoenix, AZ,5000,10000,53000,94000,73500,7500.0
+988,Investment Banking & Asset Management,Phoenix, AZ,5000,10000,53000,94000,73500,7500.0
+989,IT Services,Tempe, AZ,1,5,53000,94000,73500,3.0
+991,Colleges & Universities,Scottsdale, AZ,100,500,53000,94000,73500,300.0
+992,Banks & Credit Unions,Tempe, AZ,10000,10000,53000,94000,73500,10000.0
+993,Banks & Credit Unions,Tempe, AZ,10000,10000,53000,94000,73500,10000.0
+994,Banks & Credit Unions,Glendale, AZ,100,500,53000,94000,73500,300.0
+995,Banks & Credit Unions,Scottsdale, AZ,500,1000,53000,94000,73500,750.0
+996,Internet,Tempe, AZ,10000,10000,53000,94000,73500,10000.0
+1000,Colleges & Universities,Tempe, AZ,1000,2000,46000,102000,74000,1500.0
+1001,IT Services,Phoenix, AZ,100,500,46000,102000,74000,300.0
+1002,Staffing & Outsourcing,Phoenix, AZ,100,500,46000,102000,74000,300.0
+1003,IT Services,Tempe, AZ,50,100,46000,102000,74000,75.0
+1004,Gas Stations,Tempe, AZ,2000,5000,46000,102000,74000,3500.0
+1005,Food & Beverage Manufacturing,Phoenix, AZ,2000,5000,46000,102000,74000,3500.0
+1007,Advertising & Marketing,Chandler, AZ,1,5,46000,102000,74000,3.0
+1008,Automotive Parts & Accessories Stores,Phoenix, AZ,5000,10000,46000,102000,74000,7500.0
+1010,Truck Rental & Leasing,Phoenix, AZ,10000,10000,46000,102000,74000,10000.0
+1011,Banks & Credit Unions,Tempe, AZ,10000,10000,46000,102000,74000,10000.0
+1014,Consulting,Phoenix, AZ,1,5,46000,102000,74000,3.0
+1015,IT Services,Phoenix, AZ,10,25,46000,102000,74000,17.5
+1017,IT Services,Tempe, AZ,10,25,46000,102000,74000,17.5
+1018,Enterprise Software & Network Solutions,Mesa, AZ,1,1,46000,102000,74000,1.0
+1020,Insurance Agencies & Brokerages,Tempe, AZ,50,100,46000,102000,74000,75.0
+1025,IT Services,Phoenix, AZ,1000,2000,46000,102000,74000,1500.0
+1027,Staffing & Outsourcing,Phoenix, AZ,10,25,43000,94000,68500,17.5
+1028,IT Services,Phoenix, AZ,100,500,43000,94000,68500,300.0
+1031,Staffing & Outsourcing,Phoenix, AZ,100,500,43000,94000,68500,300.0
+1034,Advertising & Marketing,Chandler, AZ,1,5,43000,94000,68500,3.0
+1037,Accounting,Scottsdale, AZ,1,5,43000,94000,68500,3.0
+1039,Gas Stations,Tempe, AZ,2000,5000,43000,94000,68500,3500.0
+1040,Staffing & Outsourcing,Chandler, AZ,100,500,43000,94000,68500,300.0
+1042,Banks & Credit Unions,Tempe, AZ,10000,10000,43000,94000,68500,10000.0
+1043,IT Services,Phoenix, AZ,1,5,43000,94000,68500,3.0
+1044,Staffing & Outsourcing,Tempe, AZ,100,500,43000,94000,68500,300.0
+1045,Insurance Carriers,Scottsdale, AZ,5000,10000,43000,94000,68500,7500.0
+1047,Consulting,Scottsdale, AZ,10,25,43000,94000,68500,17.5
+1049,Architectural & Engineering Services,Chandler, AZ,1000,2000,43000,94000,68500,1500.0
+1051,Health Care Services & Hospitals,Tempe, AZ,25,50,43000,94000,68500,37.5
+1053,Staffing & Outsourcing,Chandler, AZ,1000,2000,43000,94000,68500,1500.0
+1054,Staffing & Outsourcing,Chandler, AZ,25,50,43000,94000,68500,37.5
+1056,Staffing & Outsourcing,Tempe, AZ,25,50,45000,78000,61500,37.5
+1057,Computer Hardware & Software,DC Ranch, AZ,1,5,45000,78000,61500,3.0
+1058,Gas Stations,Tempe, AZ,2000,5000,45000,78000,61500,3500.0
+1061,IT Services,Scottsdale, AZ,50,100,45000,78000,61500,75.0
+1062,Banks & Credit Unions,Tempe, AZ,10000,10000,45000,78000,61500,10000.0
+1064,Consulting,Tempe, AZ,500,1000,45000,78000,61500,750.0
+1065,Health Care Services & Hospitals,Scottsdale, AZ,10000,10000,45000,78000,61500,10000.0
+1066,Computer Hardware & Software,King of Prussia, PA,50,100,41000,78000,59500,75.0
+1068,Biotech & Pharmaceuticals,Blue Bell, PA,100,500,41000,78000,59500,300.0
+1070,Health Care Services & Hospitals,Philadelphia, PA,500,1000,41000,78000,59500,750.0
+1072,Consulting,Philadelphia, PA,50,100,41000,78000,59500,75.0
+1073,Staffing & Outsourcing,Wilmington, DE,100,500,41000,78000,59500,300.0
+1075,Staffing & Outsourcing,Malvern, PA,100,500,41000,78000,59500,300.0
+1077,IT Services,Philadelphia, PA,50,100,41000,78000,59500,75.0
+1079,Architectural & Engineering Services,Philadelphia, PA,2000,5000,41000,78000,59500,3500.0
+1081,Staffing & Outsourcing,Camden, NJ,100,500,41000,78000,59500,300.0
+1082,Staffing & Outsourcing,Philadelphia, PA,2000,5000,41000,78000,59500,3500.0
+1083,IT Services,Philadelphia, PA,10,25,41000,78000,59500,17.5
+1084,IT Services,Philadelphia, PA,1,1,41000,78000,59500,1.0
+1086,IT Services,Philadelphia, PA,500,1000,41000,78000,59500,750.0
+1087,Staffing & Outsourcing,Feasterville Trevose, PA,100,500,41000,78000,59500,300.0
+1089,"Cable, Internet & Telephone Providers",Feasterville Trevose, PA,5,10,41000,78000,59500,7.5
+1090,Metals Brokers,Camden, NJ,2000,5000,41000,78000,59500,3500.0
+1091,Accounting,Philadelphia, PA,10000,10000,41000,78000,59500,10000.0
+1092,Advertising & Marketing,Philadelphia, PA,10,25,41000,78000,59500,17.5
+1093,Staffing & Outsourcing,Philadelphia, PA,2000,5000,41000,78000,59500,3500.0
+1094,IT Services,Philadelphia, PA,10,25,38000,68000,53000,17.5
+1097,Insurance Carriers,Philadelphia, PA,5000,10000,38000,68000,53000,7500.0
+1098,Health Care Services & Hospitals,Philadelphia, PA,500,1000,38000,68000,53000,750.0
+1100,Investment Banking & Asset Management,Wilmington, DE,10000,10000,38000,68000,53000,10000.0
+1101,IT Services,Philadelphia, PA,50,100,38000,68000,53000,75.0
+1102,Biotech & Pharmaceuticals,Radnor, PA,2000,5000,38000,68000,53000,3500.0
+1109,Publishing,Wayne, PA,1,5,38000,68000,53000,3.0
+1110,Staffing & Outsourcing,Wilmington, DE,100,500,38000,68000,53000,300.0
+1111,IT Services,Bensalem, PA,10,25,38000,68000,53000,17.5
+1113,Staffing & Outsourcing,Philadelphia, PA,100,500,38000,68000,53000,300.0
+1114,Staffing & Outsourcing,Philadelphia, PA,100,500,38000,68000,53000,300.0
+1117,Consulting,Exton, PA,10,25,38000,68000,53000,17.5
+1119,IT Services,Philadelphia, PA,500,1000,38000,68000,53000,750.0
+1122,Staffing & Outsourcing,Wayne, PA,100,500,38000,68000,53000,300.0
+1125,Health Care Services & Hospitals,Philadelphia, PA,50,100,37000,44000,40500,75.0
+1127,Consulting,Allegheny West, PA,5,10,37000,44000,40500,7.5
+1128,Staffing & Outsourcing,Paoli, PA,10,25,37000,44000,40500,17.5
+1129,Vehicle Dealers,Doylestown, PA,1000,2000,37000,44000,40500,1500.0
+1130,Enterprise Software & Network Solutions,Horsham, PA,10,25,37000,44000,40500,17.5
+1131,Staffing & Outsourcing,Wilmington, DE,100,500,37000,44000,40500,300.0
+1134,Staffing & Outsourcing,Conshohocken, PA,10,25,37000,44000,40500,17.5
+1137,Banks & Credit Unions,Mount Laurel, NJ,10000,10000,37000,44000,40500,10000.0
+1138,Aerospace & Defense,Ridley Park, PA,10000,10000,37000,44000,40500,10000.0
+1139,IT Services,Wayne, PA,50,100,37000,44000,40500,75.0
+1140,Investment Banking & Asset Management,Mount Laurel, NJ,1000,2000,37000,44000,40500,1500.0
+1141,IT Services,Philadelphia, PA,50,100,37000,44000,40500,75.0
+1142,Oil & Gas Services,West Chester, PA,500,1000,37000,44000,40500,750.0
+1143,Staffing & Outsourcing,Berwyn, PA,10,25,37000,44000,40500,17.5
+1145,Staffing & Outsourcing,Philadelphia, PA,5,10,37000,44000,40500,7.5
+1146,Staffing & Outsourcing,Philadelphia, PA,100,500,37000,44000,40500,300.0
+1148,Staffing & Outsourcing,Wilmington, DE,1000,2000,37000,44000,40500,1500.0
+1150,Enterprise Software & Network Solutions,Horsham, PA,10,25,37000,44000,40500,17.5
+1152,Health Care Services & Hospitals,Philadelphia, PA,500,1000,64000,113000,88500,750.0
+1153,Computer Hardware & Software,Plymouth Meeting, PA,25,50,64000,113000,88500,37.5
+1154,Staffing & Outsourcing,Philadelphia, PA,100,500,64000,113000,88500,300.0
+1155,Staffing & Outsourcing,Wayne, PA,100,500,64000,113000,88500,300.0
+1157,IT Services,Philadelphia, PA,10,25,64000,113000,88500,17.5
+1158,Biotech & Pharmaceuticals,Wayne, PA,2000,5000,64000,113000,88500,3500.0
+1159,Architectural & Engineering Services,Philadelphia, PA,2000,5000,64000,113000,88500,3500.0
+1160,Investment Banking & Asset Management,Mount Laurel, NJ,1000,2000,64000,113000,88500,1500.0
+1162,"Cable, Internet & Telephone Providers",Philadelphia, PA,100,500,64000,113000,88500,300.0
+1164,Staffing & Outsourcing,Boothwyn, PA,100,500,64000,113000,88500,300.0
+1165,Insurance Carriers,Philadelphia, PA,25,50,64000,113000,88500,37.5
+1166,Biotech & Pharmaceuticals,Philadelphia, PA,10000,10000,64000,113000,88500,10000.0
+1170,Biotech & Pharmaceuticals,West Point, PA,2000,5000,64000,113000,88500,3500.0
+1171,Biotech & Pharmaceuticals,West Point, PA,2000,5000,64000,113000,88500,3500.0
+1172,Investment Banking & Asset Management,Marlton, NJ,1000,2000,64000,113000,88500,1500.0
+1173,Consulting,King of Prussia, PA,1,5,64000,113000,88500,3.0
+1176,IT Services,Malvern, PA,100,500,64000,113000,88500,300.0
+1177,Insurance Carriers,Philadelphia, PA,25,50,64000,113000,88500,37.5
+1179,Staffing & Outsourcing,Philadelphia, PA,50,100,64000,113000,88500,75.0
+1180,Advertising & Marketing,Philadelphia, PA,1,5,64000,113000,88500,3.0
+1181,Staffing & Outsourcing,Philadelphia, PA,100,500,64000,113000,88500,300.0
+1182,Staffing & Outsourcing,King of Prussia, PA,10,25,50000,93000,71500,17.5
+1183,Consulting,Allegheny West, PA,5,10,50000,93000,71500,7.5
+1185,IT Services,Horsham, PA,1,5,50000,93000,71500,3.0
+1187,Staffing & Outsourcing,Wilmington, DE,100,500,50000,93000,71500,300.0
+1189,IT Services,Wilmington, DE,50,100,50000,93000,71500,75.0
+1190,Electrical & Electronic Manufacturing,Berwyn, PA,10000,10000,50000,93000,71500,10000.0
+1191,Investment Banking & Asset Management,Marlton, NJ,1000,2000,50000,93000,71500,1500.0
+1192,Insurance Carriers,Philadelphia, PA,5000,10000,50000,93000,71500,7500.0
+1193,Advertising & Marketing,Philadelphia, PA,1,5,50000,93000,71500,3.0
+1195,Accounting,Moorestown, NJ,5,10,50000,93000,71500,7.5
+1196,Investment Banking & Asset Management,Wilmington, DE,10000,10000,50000,93000,71500,10000.0
+1197,Enterprise Software & Network Solutions,Horsham, PA,10,25,50000,93000,71500,17.5
+1198,Health Care Services & Hospitals,Philadelphia, PA,100,500,50000,93000,71500,300.0
+1199,Staffing & Outsourcing,Wilmington, DE,1000,2000,50000,93000,71500,1500.0
+1201,Computer Hardware & Software,San Antonio, TX,1,5,37000,68000,52500,3.0
+1203,IT Services,San Antonio, TX,50,100,37000,68000,52500,75.0
+1204,Staffing & Outsourcing,San Antonio, TX,25,50,37000,68000,52500,37.5
+1205,Staffing & Outsourcing,San Antonio, TX,1,5,37000,68000,52500,3.0
+1206,IT Services,San Antonio, TX,50,100,37000,68000,52500,75.0
+1207,IT Services,San Antonio, TX,100,500,37000,68000,52500,300.0
+1208,Aerospace & Defense,San Antonio, TX,5000,10000,37000,68000,52500,7500.0
+1211,Banks & Credit Unions,San Antonio, TX,1000,2000,37000,68000,52500,1500.0
+1212,Grocery Stores & Supermarkets,San Antonio, TX,10000,10000,37000,68000,52500,10000.0
+1216,IT Services,San Antonio, TX,100,500,37000,68000,52500,300.0
+1218,IT Services,San Antonio, TX,50,100,37000,68000,52500,75.0
+1219,Staffing & Outsourcing,San Antonio, TX,1,5,37000,68000,52500,3.0
+1220,IT Services,San Antonio, TX,50,100,37000,68000,52500,75.0
+1222,Computer Hardware & Software,San Antonio, TX,5000,10000,37000,68000,52500,7500.0
+1223,Computer Hardware & Software,San Antonio, TX,50,100,37000,68000,52500,75.0
+1225,Staffing & Outsourcing,San Antonio, TX,1000,2000,37000,68000,52500,1500.0
+1226,Pet & Pet Supplies Stores,San Antonio, TX,2000,5000,37000,68000,52500,3500.0
+1227,Staffing & Outsourcing,San Antonio, TX,50,100,37000,68000,52500,75.0
+1228,Consulting,San Antonio, TX,100,500,37000,68000,52500,300.0
+1229,Federal Agencies,San Antonio, TX,50,100,37000,68000,52500,75.0
+1230,IT Services,Lackland AFB, TX,10000,10000,37000,68000,52500,10000.0
+1233,Social Assistance,San Antonio, TX,2000,5000,73000,89000,81000,3500.0
+1234,Aerospace & Defense,San Antonio, TX,1000,2000,73000,89000,81000,1500.0
+1235,IT Services,San Antonio, TX,100,500,73000,89000,81000,300.0
+1238,Staffing & Outsourcing,San Antonio, TX,1000,2000,73000,89000,81000,1500.0
+1239,Accounting,San Antonio, TX,500,1000,73000,89000,81000,750.0
+1240,Aerospace & Defense,Lackland AFB, TX,25,50,73000,89000,81000,37.5
+1241,IT Services,San Antonio, TX,50,100,73000,89000,81000,75.0
+1243,Staffing & Outsourcing,San Antonio, TX,10,25,73000,89000,81000,17.5
+1244,IT Services,San Antonio, TX,1,5,73000,89000,81000,3.0
+1245,Computer Hardware & Software,San Antonio, TX,50,100,73000,89000,81000,75.0
+1247,Staffing & Outsourcing,San Antonio, TX,100,500,73000,89000,81000,300.0
+1248,Staffing & Outsourcing,San Antonio, TX,100,500,73000,89000,81000,300.0
+1249,Aerospace & Defense,San Diego, CA,2000,5000,76000,122000,99000,3500.0
+1250,Banks & Credit Unions,San Diego, CA,1000,2000,76000,122000,99000,1500.0
+1252,Education Training Services,San Diego, CA,100,500,76000,122000,99000,300.0
+1253,Accounting,San Diego, CA,1,1,76000,122000,99000,1.0
+1254,IT Services,San Diego, CA,25,50,76000,122000,99000,37.5
+1255,Colleges & Universities,San Diego, CA,5000,10000,76000,122000,99000,7500.0
+1258,Aerospace & Defense,San Diego, CA,50,100,76000,122000,99000,75.0
+1260,IT Services,San Diego, CA,50,100,76000,122000,99000,75.0
+1261,Financial Analytics & Research,San Diego, CA,1000,2000,76000,122000,99000,1500.0
+1262,Education Training Services,San Diego, CA,100,500,76000,122000,99000,300.0
+1264,Banks & Credit Unions,San Diego, CA,500,1000,76000,122000,99000,750.0
+1267,Energy,San Diego, CA,25,50,76000,122000,99000,37.5
+1268,Health Care Products Manufacturing,San Diego, CA,50,100,76000,122000,99000,75.0
+1269,Biotech & Pharmaceuticals,San Diego, CA,2000,5000,76000,122000,99000,3500.0
+1270,Staffing & Outsourcing,San Diego, CA,50,100,76000,122000,99000,75.0
+1271,Aerospace & Defense,San Diego, CA,10000,10000,76000,122000,99000,10000.0
+1272,IT Services,San Diego, CA,50,100,76000,122000,99000,75.0
+1275,Biotech & Pharmaceuticals,San Diego, CA,1000,2000,76000,122000,99000,1500.0
+1276,Health Care Products Manufacturing,San Diego, CA,10000,10000,76000,122000,99000,10000.0
+1277,Biotech & Pharmaceuticals,San Diego, CA,2000,5000,60000,124000,92000,3500.0
+1278,Staffing & Outsourcing,San Diego, CA,5000,10000,60000,124000,92000,7500.0
+1279,Health Care Services & Hospitals,San Diego, CA,10000,10000,60000,124000,92000,10000.0
+1280,Biotech & Pharmaceuticals,San Diego, CA,2000,5000,60000,124000,92000,3500.0
+1282,Computer Hardware & Software,San Diego, CA,1,5,60000,124000,92000,3.0
+1284,Computer Hardware & Software,San Diego, CA,2000,5000,60000,124000,92000,3500.0
+1288,Computer Hardware & Software,San Diego, CA,2000,5000,60000,124000,92000,3500.0
+1289,Insurance Carriers,San Diego, CA,10000,10000,60000,124000,92000,10000.0
+1291,Computer Hardware & Software,San Diego, CA,1,5,60000,124000,92000,3.0
+1294,IT Services,San Diego, CA,50,100,60000,124000,92000,75.0
+1296,Staffing & Outsourcing,San Diego, CA,10,25,60000,124000,92000,17.5
+1299,Wholesale,San Diego, CA,10,25,60000,124000,92000,17.5
+1301,Gambling,El Cajon, CA,100,500,60000,124000,92000,300.0
+1302,Colleges & Universities,San Diego, CA,2000,5000,60000,124000,92000,3500.0
+1303,IT Services,San Diego, CA,25,50,60000,124000,92000,37.5
+1305,Computer Hardware & Software,San Diego, CA,10000,10000,60000,124000,92000,10000.0
+1306,Staffing & Outsourcing,San Diego, CA,10,25,60000,124000,92000,17.5
+1307,IT Services,San Diego, CA,10000,10000,60000,124000,92000,10000.0
+1312,IT Services,San Diego, CA,10,25,34000,61000,47500,17.5
+1313,Enterprise Software & Network Solutions,Plano, TX,5000,10000,24000,48000,36000,7500.0
+1314,Enterprise Software & Network Solutions,Plano, TX,5000,10000,24000,48000,36000,7500.0
+1315,Computer Hardware & Software,Allen, TX,500,1000,24000,48000,36000,750.0
+1316,Grocery Stores & Supermarkets,Arlington, TX,10000,10000,24000,48000,36000,10000.0
+1317,Consulting,Dallas, TX,50,100,24000,48000,36000,75.0
+1320,Staffing & Outsourcing,Dallas, TX,100,500,24000,48000,36000,300.0
+1321,Investment Banking & Asset Management,Dallas, TX,10000,10000,24000,48000,36000,10000.0
+1323,Advertising & Marketing,Dallas, TX,100,500,24000,48000,36000,300.0
+1324,Financial Analytics & Research,Dallas, TX,10000,10000,24000,48000,36000,10000.0
+1326,IT Services,Dallas, TX,100,500,24000,48000,36000,300.0
+1327,Municipal Governments,Dallas, TX,50,100,24000,48000,36000,75.0
+1328,Investment Banking & Asset Management,Dallas, TX,10000,10000,24000,48000,36000,10000.0
+1329,IT Services,Irving, TX,10000,10000,24000,48000,36000,10000.0
+1331,Grocery Stores & Supermarkets,Arlington, TX,10000,10000,24000,48000,36000,10000.0
+1332,Telecommunications Services,Dallas, TX,10000,10000,24000,48000,36000,10000.0
+1333,Staffing & Outsourcing,Richardson, TX,100,500,24000,48000,36000,300.0
+1336,Advertising & Marketing,Dallas, TX,100,500,24000,48000,36000,300.0
+1337,Banks & Credit Unions,Irving, TX,1000,2000,24000,48000,36000,1500.0
+1339,IT Services,Dallas, TX,50,100,24000,48000,36000,75.0
+1341,Enterprise Software & Network Solutions,Dallas, TX,10000,10000,24000,48000,36000,10000.0
+1342,Staffing & Outsourcing,Dallas, TX,100,500,30000,53000,41500,300.0
+1343,Preschool & Child Care,Dallas, TX,1000,2000,30000,53000,41500,1500.0
+1346,Staffing & Outsourcing,Dallas, TX,1000,2000,30000,53000,41500,1500.0
+1347,Investment Banking & Asset Management,Dallas, TX,5,10,30000,53000,41500,7.5
+1348,Preschool & Child Care,Dallas, TX,1000,2000,30000,53000,41500,1500.0
+1349,Insurance Carriers,Irving, TX,5000,10000,30000,53000,41500,7500.0
+1353,Health Care Services & Hospitals,Dallas, TX,10,25,30000,53000,41500,17.5
+1355,Industrial Manufacturing,Grapevine, TX,2000,5000,30000,53000,41500,3500.0
+1356,Transportation Equipment Manufacturing,Dallas, TX,5000,10000,30000,53000,41500,7500.0
+1359,Banks & Credit Unions,Dallas, TX,5000,10000,30000,53000,41500,7500.0
+1360,IT Services,Plano, TX,1,1,30000,53000,41500,1.0
+1362,Oil & Gas Services,Dallas, TX,2000,5000,30000,53000,41500,3500.0
+1363,Investment Banking & Asset Management,Irving, TX,10000,10000,30000,53000,41500,10000.0
+1364,IT Services,Dallas, TX,50,100,30000,53000,41500,75.0
+1365,Membership Organizations,Arlington, TX,10,25,30000,53000,41500,17.5
+1367,Investment Banking & Asset Management,Dallas, TX,10000,10000,30000,53000,41500,10000.0
+1368,Computer Hardware & Software,Plano, TX,10000,10000,30000,53000,41500,10000.0
+1369,Consulting,Plano, TX,5,10,30000,53000,41500,7.5
+1370,Staffing & Outsourcing,Irving, TX,2000,5000,30000,53000,41500,3500.0
+1371,Computer Hardware & Software,Richardson, TX,500,1000,30000,53000,41500,750.0
+1372,Consumer Products Manufacturing,Lewisville, TX,2000,5000,41000,86000,63500,3500.0
+1375,Computer Hardware & Software,Irving, TX,5,10,41000,86000,63500,7.5
+1376,Staffing & Outsourcing,Plano, TX,100,500,41000,86000,63500,300.0
+1380,IT Services,Irving, TX,10000,10000,41000,86000,63500,10000.0
+1381,Convenience Stores & Truck Stops,Arlington, TX,100,500,41000,86000,63500,300.0
+1382,IT Services,Plano, TX,10,25,41000,86000,63500,17.5
+1383,Investment Banking & Asset Management,Irving, TX,10000,10000,41000,86000,63500,10000.0
+1385,Advertising & Marketing,Irving, TX,500,1000,41000,86000,63500,750.0
+1387,IT Services,Grapevine, TX,25,50,41000,86000,63500,37.5
+1388,Aerospace & Defense,Dallas, TX,25,50,41000,86000,63500,37.5
+1391,Enterprise Software & Network Solutions,Dallas, TX,25,50,41000,86000,63500,37.5
+1392,Security Services,Irving, TX,2000,5000,41000,86000,63500,3500.0
+1393,Staffing & Outsourcing,Dallas, TX,100,500,41000,86000,63500,300.0
+1395,IT Services,Dallas, TX,1,5,41000,86000,63500,3.0
+1397,Transportation Equipment Manufacturing,Dallas, TX,5000,10000,41000,86000,63500,7500.0
+1398,Lending,Dallas, TX,500,1000,41000,86000,63500,750.0
+1399,Health Care Services & Hospitals,Irving, TX,5,10,41000,86000,63500,7.5
+1400,Consulting,Dallas, TX,10,25,41000,86000,63500,17.5
+1401,Municipal Governments,Tarrant, TX,1,1,44000,82000,63000,1.0
+1402,Staffing & Outsourcing,Dallas, TX,100,500,44000,82000,63000,300.0
+1403,"Health, Beauty, & Fitness",Irving, TX,1,1,44000,82000,63000,1.0
+1405,Colleges & Universities,Arlington, TX,100,500,44000,82000,63000,300.0
+1406,Computer Hardware & Software,Plano, TX,25,50,44000,82000,63000,37.5
+1407,Lending,Carrollton, TX,10000,10000,44000,82000,63000,10000.0
+1409,Computer Hardware & Software,Plano, TX,5000,10000,44000,82000,63000,7500.0
+1410,Industrial Manufacturing,Dallas, TX,2000,5000,44000,82000,63000,3500.0
+1411,Construction,Southlake, TX,100,500,44000,82000,63000,300.0
+1412,Lending,Dallas, TX,500,1000,44000,82000,63000,750.0
+1413,Financial Transaction Processing,Dallas, TX,50,100,44000,82000,63000,75.0
+1417,Investment Banking & Asset Management,Lewisville, TX,10000,10000,44000,82000,63000,10000.0
+1418,Staffing & Outsourcing,Irving, TX,50,100,44000,82000,63000,75.0
+1420,IT Services,Coppell, TX,50,100,44000,82000,63000,75.0
+1422,Consulting,Dallas, TX,10,25,44000,82000,63000,17.5
+1426,Accounting,Richardson, TX,1,1,44000,82000,63000,1.0
+1428,Consulting,Dallas, TX,50,100,44000,82000,63000,75.0
+1429,Health Care Products Manufacturing,Dallas, TX,1000,2000,48000,88000,68000,1500.0
+1430,Staffing & Outsourcing,Plano, TX,1000,2000,48000,88000,68000,1500.0
+1432,Staffing & Outsourcing,Plano, TX,1000,2000,48000,88000,68000,1500.0
+1434,Investment Banking & Asset Management,Irving, TX,10000,10000,48000,88000,68000,10000.0
+1435,Staffing & Outsourcing,Irving, TX,1,5,48000,88000,68000,3.0
+1437,Colleges & Universities,Arlington, TX,100,500,48000,88000,68000,300.0
+1439,"Health, Beauty, & Fitness",Irving, TX,1,1,48000,88000,68000,1.0
+1440,IT Services,Dallas, TX,1,5,48000,88000,68000,3.0
+1441,Staffing & Outsourcing,Irving, TX,50,100,48000,88000,68000,75.0
+1442,IT Services,Irving, TX,1,1,48000,88000,68000,1.0
+1443,Electrical & Electronic Manufacturing,Dallas, TX,2000,5000,48000,88000,68000,3500.0
+1444,Staffing & Outsourcing,Richardson, TX,100,500,48000,88000,68000,300.0
+1445,IT Services,Allen, TX,10,25,48000,88000,68000,17.5
+1446,Convenience Stores & Truck Stops,Arlington, TX,100,500,48000,88000,68000,300.0
+1447,Accounting,Richardson, TX,1,1,48000,88000,68000,1.0
+1448,Advertising & Marketing,Irving, TX,500,1000,48000,88000,68000,750.0
+1449,IT Services,Plano, TX,100,500,48000,88000,68000,300.0
+1450,Staffing & Outsourcing,Richardson, TX,100,500,48000,88000,68000,300.0
+1451,Health Care Services & Hospitals,Plano, TX,25,50,48000,88000,68000,37.5
+1452,Advertising & Marketing,Richardson, TX,1,5,48000,88000,68000,3.0
+1453,Accounting,Richardson, TX,1,1,48000,88000,68000,1.0
+1455,Staffing & Outsourcing,Irving, TX,2000,5000,48000,88000,68000,3500.0
+1456,Transportation Management,Arlington, TX,5000,10000,44000,78000,61000,7500.0
+1457,Logistics & Supply Chain,Plano, TX,2000,5000,44000,78000,61000,3500.0
+1458,Accounting,Richardson, TX,1,1,44000,78000,61000,1.0
+1460,Staffing & Outsourcing,Plano, TX,10,25,44000,78000,61000,17.5
+1462,Staffing & Outsourcing,Plano, TX,2000,5000,44000,78000,61000,3500.0
+1463,Staffing & Outsourcing,Plano, TX,1000,2000,44000,78000,61000,1500.0
+1464,Enterprise Software & Network Solutions,Irving, TX,1,5,44000,78000,61000,3.0
+1467,Computer Hardware & Software,Allen, TX,25,50,44000,78000,61000,37.5
+1468,Staffing & Outsourcing,Newark, CA,25,50,110000,190000,150000,37.5
+1469,Computer Hardware & Software,Santa Clara, CA,5000,10000,110000,190000,150000,7500.0
+1470,Enterprise Software & Network Solutions,Newark, CA,100,500,110000,190000,150000,300.0
+1471,Enterprise Software & Network Solutions,Santa Clara, CA,10,25,110000,190000,150000,17.5
+1472,Enterprise Software & Network Solutions,Redwood City, CA,100,500,110000,190000,150000,300.0
+1473,Sports & Recreation,Santa Clara, CA,100,500,110000,190000,150000,300.0
+1474,Staffing & Outsourcing,Cupertino, CA,5000,10000,110000,190000,150000,7500.0
+1475,Transportation Equipment Manufacturing,Fremont, CA,2000,5000,110000,190000,150000,3500.0
+1477,IT Services,Menlo Park, CA,50,100,110000,190000,150000,75.0
+1478,Accounting,Santa Clara, CA,25,50,110000,190000,150000,37.5
+1482,Staffing & Outsourcing,Cupertino, CA,100,500,110000,190000,150000,300.0
+1487,IT Services,Cupertino, CA,50,100,110000,190000,150000,75.0
+1489,IT Services,Sunnyvale, CA,5,10,110000,190000,150000,7.5
+1490,Health Care Services & Hospitals,San Jose, CA,5,10,110000,190000,150000,7.5
+1491,IT Services,San Jose, CA,25,50,110000,190000,150000,37.5
+1492,Internet,Los Gatos, CA,5000,10000,110000,190000,150000,7500.0
+1494,Consulting,San Jose, CA,1,5,110000,190000,150000,3.0
+1495,Staffing & Outsourcing,Sunnyvale, CA,100,500,110000,190000,150000,300.0
+1496,IT Services,San Jose, CA,100,500,110000,190000,150000,300.0
+1498,Internet,Los Gatos, CA,5000,10000,89000,151000,120000,7500.0
+1499,Staffing & Outsourcing,San Jose, CA,1,5,89000,151000,120000,3.0
+1500,Computer Hardware & Software,Santa Clara, CA,10000,10000,89000,151000,120000,10000.0
+1501,Staffing & Outsourcing,Cupertino, CA,100,500,89000,151000,120000,300.0
+1502,Electrical & Electronic Manufacturing,San Jose, CA,100,500,89000,151000,120000,300.0
+1503,Advertising & Marketing,San Jose, CA,1,5,89000,151000,120000,3.0
+1504,Staffing & Outsourcing,San Jose, CA,10,25,89000,151000,120000,17.5
+1505,IT Services,Sunnyvale, CA,500,1000,89000,151000,120000,750.0
+1506,Accounting,San Jose, CA,1,1,89000,151000,120000,1.0
+1507,IT Services,Menlo Park, CA,25,50,89000,151000,120000,37.5
+1508,Enterprise Software & Network Solutions,San Jose, CA,1,5,89000,151000,120000,3.0
+1510,Internet,Redwood City, CA,100,500,89000,151000,120000,300.0
+1511,Staffing & Outsourcing,Sunnyvale, CA,500,1000,89000,151000,120000,750.0
+1512,IT Services,San Jose, CA,5,10,89000,151000,120000,7.5
+1513,IT Services,Cupertino, CA,25,50,89000,151000,120000,37.5
+1514,IT Services,San Jose, CA,50,100,89000,151000,120000,75.0
+1517,Computer Hardware & Software,Santa Clara, CA,10000,10000,89000,151000,120000,10000.0
+1518,Computer Hardware & Software,Santa Clara, CA,10000,10000,89000,151000,120000,10000.0
+1520,Computer Hardware & Software,Palo Alto, CA,10000,10000,89000,151000,120000,10000.0
+1522,IT Services,San Jose, CA,50,100,89000,151000,120000,75.0
+1524,Health Care Services & Hospitals,Redwood City, CA,100,500,89000,151000,120000,300.0
+1525,Colleges & Universities,Stanford, CA,10000,10000,69000,127000,98000,10000.0
+1526,IT Services,San Jose, CA,1,5,69000,127000,98000,3.0
+1527,Publishing,Los Gatos, CA,1000,2000,69000,127000,98000,1500.0
+1528,Computer Hardware & Software,San Jose, CA,1000,2000,69000,127000,98000,1500.0
+1530,Computer Hardware & Software,Santa Clara, CA,10000,10000,69000,127000,98000,10000.0
+1536,Computer Hardware & Software,Santa Clara, CA,10000,10000,69000,127000,98000,10000.0
+1537,Staffing & Outsourcing,Redwood City, CA,100,500,69000,127000,98000,300.0
+1539,Computer Hardware & Software,Redwood City, CA,25,50,69000,127000,98000,37.5
+1540,IT Services,Mountain View, CA,50,100,69000,127000,98000,75.0
+1542,Staffing & Outsourcing,Sunnyvale, CA,100,500,69000,127000,98000,300.0
+1543,Staffing & Outsourcing,Cupertino, CA,10,25,69000,127000,98000,17.5
+1545,IT Services,Fremont, CA,100,500,69000,127000,98000,300.0
+1547,Staffing & Outsourcing,Sunnyvale, CA,2000,5000,69000,127000,98000,3500.0
+1548,IT Services,San Jose, CA,100,500,69000,127000,98000,300.0
+1549,Biotech & Pharmaceuticals,Sunnyvale, CA,10000,10000,69000,127000,98000,10000.0
+1551,IT Services,San Jose, CA,10,25,69000,127000,98000,17.5
+1553,Computer Hardware & Software,Santa Clara, CA,10000,10000,69000,127000,98000,10000.0
+1557,Computer Hardware & Software,Santa Clara, CA,10000,10000,51000,93000,72000,10000.0
+1558,Staffing & Outsourcing,Menlo Park, CA,2000,5000,51000,93000,72000,3500.0
+1559,Computer Hardware & Software,San Jose, CA,1000,2000,51000,93000,72000,1500.0
+1562,Biotech & Pharmaceuticals,Sunnyvale, CA,10000,10000,51000,93000,72000,10000.0
+1563,Advertising & Marketing,Cupertino, CA,1,5,51000,93000,72000,3.0
+1564,Internet,East Palo Alto, CA,10000,10000,51000,93000,72000,10000.0
+1567,Accounting,Pleasanton, CA,10,25,51000,93000,72000,17.5
+1568,Accounting,Pleasanton, CA,1,1,51000,93000,72000,1.0
+1569,IT Services,San Jose, CA,10,25,51000,93000,72000,17.5
+1570,Architectural & Engineering Services,Sunnyvale, CA,10,25,51000,93000,72000,17.5
+1571,Health Care Services & Hospitals,Mountain View, CA,25,50,51000,93000,72000,37.5
+1573,Enterprise Software & Network Solutions,San Jose, CA,1000,2000,51000,93000,72000,1500.0
+1577,Consulting,Palo Alto, CA,500,1000,51000,93000,72000,750.0
+1578,Computer Hardware & Software,Mountain View, CA,2000,5000,51000,93000,72000,3500.0
+1579,Health Care Services & Hospitals,Palo Alto, CA,2000,5000,51000,93000,72000,3500.0
+1580,Biotech & Pharmaceuticals,Sunnyvale, CA,500,1000,51000,93000,72000,750.0
+1581,Consulting,Milpitas, CA,1,5,51000,93000,72000,3.0
+1582,Consulting,Palo Alto, CA,500,1000,51000,93000,72000,750.0
+1584,Staffing & Outsourcing,Cupertino, CA,5000,10000,58000,93000,75500,7500.0
+1585,Health Care Services & Hospitals,Union City, CA,10000,10000,58000,93000,75500,10000.0
+1587,Enterprise Software & Network Solutions,Milpitas, CA,50,100,58000,93000,75500,75.0
+1589,IT Services,San Jose, CA,10,25,58000,93000,75500,17.5
+1591,Insurance Agencies & Brokerages,Santa Clara, CA,100,500,58000,93000,75500,300.0
+1592,Biotech & Pharmaceuticals,Palo Alto, CA,1,5,58000,93000,75500,3.0
+1593,Enterprise Software & Network Solutions,Milpitas, CA,50,100,58000,93000,75500,75.0
+1597,Staffing & Outsourcing,Mountain View, CA,50,100,58000,93000,75500,75.0
+1598,Computer Hardware & Software,Sunnyvale, CA,5,10,58000,93000,75500,7.5
+1601,IT Services,San Jose, CA,50,100,58000,93000,75500,75.0
+1602,Computer Hardware & Software,Sunnyvale, CA,2000,5000,58000,93000,75500,3500.0
+1603,IT Services,Menlo Park, CA,25,50,58000,93000,75500,37.5
+1604,Computer Hardware & Software,Santa Clara, CA,10000,10000,58000,93000,75500,10000.0
+1605,Consulting,Palo Alto, CA,500,1000,58000,93000,75500,750.0
+1606,IT Services,Milpitas, CA,10,25,58000,93000,75500,17.5
+1607,Consulting,Mountain View, CA,25,50,58000,93000,75500,37.5
+1608,Internet,Mountain View, CA,10000,10000,58000,93000,75500,10000.0
+1610,Staffing & Outsourcing,Redwood City, CA,100,500,58000,93000,75500,300.0
+1611,Consulting,Cupertino, CA,1,1,58000,93000,75500,1.0
+1613,Computer Hardware & Software,San Jose, CA,1000,2000,58000,93000,75500,1500.0
+1614,Accounting,Pleasanton, CA,1,1,58000,93000,75500,1.0
+1615,Biotech & Pharmaceuticals,Redwood City, CA,1,1,63000,116000,89500,1.0
+1616,Consulting,Palo Alto, CA,500,1000,63000,116000,89500,750.0
+1617,IT Services,San Jose, CA,1,5,63000,116000,89500,3.0
+1619,Staffing & Outsourcing,Menlo Park, CA,2000,5000,63000,116000,89500,3500.0
+1620,Biotech & Pharmaceuticals,Mountain View, CA,5,10,63000,116000,89500,7.5
+1621,"Health, Beauty, & Fitness",Fremont, CA,5,10,63000,116000,89500,7.5
+1622,Consulting,San Jose, CA,50,100,63000,116000,89500,75.0
+1623,Consulting,Palo Alto, CA,500,1000,63000,116000,89500,750.0
+1624,Consulting,Santa Clara, CA,1,5,63000,116000,89500,3.0
+1625,Staffing & Outsourcing,Mountain View, CA,50,100,63000,116000,89500,75.0
+1629,Financial Transaction Processing,Palo Alto, CA,50,100,63000,116000,89500,75.0
+1630,IT Services,Santa Clara, CA,100,500,63000,116000,89500,300.0
+1631,Accounting,Pleasanton, CA,1,1,63000,116000,89500,1.0
+1632,Computer Hardware & Software,Santa Clara, CA,10000,10000,63000,116000,89500,10000.0
+1633,Advertising & Marketing,Palo Alto, CA,1,5,63000,116000,89500,3.0
+1634,Computer Hardware & Software,Redwood City, CA,25,50,63000,116000,89500,37.5
+1635,Internet,Austin, TX,10000,10000,42000,76000,59000,10000.0
+1637,Advertising & Marketing,Austin, TX,25,50,42000,76000,59000,37.5
+1638,Computer Hardware & Software,Austin, TX,25,50,42000,76000,59000,37.5
+1645,Video Games,Austin, TX,500,1000,42000,76000,59000,750.0
+1647,Investment Banking & Asset Management,Austin, TX,10,25,42000,76000,59000,17.5
+1648,Health Care Services & Hospitals,Austin, TX,5,10,42000,76000,59000,7.5
+1651,IT Services,Austin, TX,50,100,42000,76000,59000,75.0
+1652,Advertising & Marketing,Austin, TX,1000,2000,42000,76000,59000,1500.0
+1653,Advertising & Marketing,Austin, TX,25,50,42000,76000,59000,37.5
+1654,Computer Hardware & Software,Austin, TX,25,50,42000,76000,59000,37.5
+1656,IT Services,Austin, TX,50,100,42000,76000,59000,75.0
+1657,Enterprise Software & Network Solutions,Austin, TX,10,25,42000,76000,59000,17.5
+1659,IT Services,Austin, TX,50,100,42000,76000,59000,75.0
+1660,Health Care Services & Hospitals,Austin, TX,1,1,42000,76000,59000,1.0
+1661,Staffing & Outsourcing,Austin, TX,2000,5000,42000,76000,59000,3500.0
+1662,Internet,Austin, TX,5000,10000,53000,104000,78500,7500.0
+1668,Investment Banking & Asset Management,Austin, TX,100,500,53000,104000,78500,300.0
+1672,State & Regional Agencies,Austin, TX,100,500,53000,104000,78500,300.0
+1675,Computer Hardware & Software,Austin, TX,5000,10000,53000,104000,78500,7500.0
+1678,Insurance Carriers,Austin, TX,10000,10000,53000,104000,78500,10000.0
+1682,Enterprise Software & Network Solutions,Austin, TX,100,500,53000,104000,78500,300.0
+1683,Computer Hardware & Software,Austin, TX,25,50,53000,104000,78500,37.5
+1684,Computer Hardware & Software,Austin, TX,2000,5000,53000,104000,78500,3500.0
+1685,Internet,Austin, TX,1,1,53000,104000,78500,1.0
+1688,Health Care Services & Hospitals,Austin, TX,2000,5000,35000,42000,38500,3500.0
+1689,Health Care Services & Hospitals,Austin, TX,100,500,35000,42000,38500,300.0
+1691,IT Services,Austin, TX,50,100,35000,42000,38500,75.0
+1692,Banks & Credit Unions,Austin, TX,50,100,35000,42000,38500,75.0
+1693,Accounting,Austin, TX,10,25,35000,42000,38500,17.5
+1694,Consulting,Austin, TX,5000,10000,35000,42000,38500,7500.0
+1695,IT Services,Austin, TX,25,50,35000,42000,38500,37.5
+1697,Consulting,Austin, TX,50,100,35000,42000,38500,75.0
+1698,IT Services,Austin, TX,10,25,35000,42000,38500,17.5
+1699,Insurance Carriers,Austin, TX,10000,10000,35000,42000,38500,10000.0
+1700,Health Care Services & Hospitals,Austin, TX,5,10,35000,42000,38500,7.5
+1703,Health Care Services & Hospitals,Austin, TX,100,500,35000,42000,38500,300.0
+1704,IT Services,Austin, TX,5,10,35000,42000,38500,7.5
+1706,IT Services,Austin, TX,50,100,35000,42000,38500,75.0
+1709,Membership Organizations,Austin, TX,5,10,35000,42000,38500,7.5
+1710,Advertising & Marketing,Round Rock, TX,1,1,35000,42000,38500,1.0
+1711,Membership Organizations,Austin, TX,5,10,35000,42000,38500,7.5
+1715,Insurance Carriers,Austin, TX,10000,10000,35000,42000,38500,10000.0
+1716,IT Services,Round Rock, TX,1,1,35000,42000,38500,1.0
+1717,State & Regional Agencies,Austin, TX,100,500,35000,42000,38500,300.0
+1719,Staffing & Outsourcing,Round Rock, TX,100,500,43000,77000,60000,300.0
+1721,Staffing & Outsourcing,Jacksonville, FL,100,500,40000,72000,56000,300.0
+1722,Staffing & Outsourcing,Jacksonville, FL,2000,5000,40000,72000,56000,3500.0
+1723,Investment Banking & Asset Management,Jacksonville, FL,10000,10000,40000,72000,56000,10000.0
+1724,Staffing & Outsourcing,Jacksonville, FL,50,100,40000,72000,56000,75.0
+1725,IT Services,Jacksonville, FL,50,100,40000,72000,56000,75.0
+1728,Investment Banking & Asset Management,Jacksonville, FL,10000,10000,40000,72000,56000,10000.0
+1729,Advertising & Marketing,Jacksonville, FL,1,1,40000,72000,56000,1.0
+1730,IT Services,Jacksonville, FL,50,100,40000,72000,56000,75.0
+1731,Investment Banking & Asset Management,Jacksonville, FL,10000,10000,40000,72000,56000,10000.0
+1732,IT Services,Jacksonville, FL,50,100,40000,72000,56000,75.0
+1735,Insurance Carriers,Jacksonville, FL,2000,5000,40000,72000,56000,3500.0
+1738,IT Services,Jacksonville, FL,100,500,40000,72000,56000,300.0
+1740,Aerospace & Defense,Fort Worth, TX,10000,10000,50000,86000,68000,10000.0
+1742,Staffing & Outsourcing,Fort Worth, TX,50,100,50000,86000,68000,75.0
+1744,Aerospace & Defense,Fort Worth, TX,2000,5000,50000,86000,68000,3500.0
+1745,IT Services,Fort Worth, TX,1,5,50000,86000,68000,3.0
+1746,IT Services,Irving, TX,100,500,50000,86000,68000,300.0
+1748,Aerospace & Defense,Fort Worth, TX,10000,10000,50000,86000,68000,10000.0
+1749,Lending,Fort Worth, TX,5000,10000,50000,86000,68000,7500.0
+1751,Transportation Management,Fort Worth, TX,25,50,35000,67000,51000,37.5
+1752,IT Services,Fort Worth, TX,25,50,35000,67000,51000,37.5
+1753,IT Services,Fort Worth, TX,50,100,35000,67000,51000,75.0
+1757,IT Services,Fort Worth, TX,50,100,35000,67000,51000,75.0
+1758,Computer Hardware & Software,Fort Worth, TX,1,1,57000,70000,63500,1.0
+1759,IT Services,Westlake, TX,25,50,57000,70000,63500,37.5
+1760,Staffing & Outsourcing,Columbus, OH,100,500,28000,52000,40000,300.0
+1762,Health Care Services & Hospitals,Columbus, OH,1000,2000,28000,52000,40000,1500.0
+1763,Banks & Credit Unions,Columbus, OH,500,1000,28000,52000,40000,750.0
+1764,"Department, Clothing, & Shoe Stores",Columbus, OH,2000,5000,28000,52000,40000,3500.0
+1765,Investment Banking & Asset Management,Columbus, OH,10000,10000,28000,52000,40000,10000.0
+1768,Health Care Services & Hospitals,Columbus, OH,10000,10000,28000,52000,40000,10000.0
+1769,IT Services,Columbus, OH,50,100,28000,52000,40000,75.0
+1770,Lending,Columbus, OH,5,10,28000,52000,40000,7.5
+1772,Health Care Services & Hospitals,Columbus, OH,1000,2000,28000,52000,40000,1500.0
+1773,Accounting,Columbus, OH,1,1,28000,52000,40000,1.0
+1774,IT Services,Columbus, OH,50,100,28000,52000,40000,75.0
+1776,Staffing & Outsourcing,Columbus, OH,500,1000,28000,52000,40000,750.0
+1779,IT Services,Dublin, OH,50,100,28000,52000,40000,75.0
+1781,IT Services,Columbus, OH,50,100,28000,52000,40000,75.0
+1782,Health Care Services & Hospitals,Columbus, OH,1000,2000,28000,52000,40000,1500.0
+1783,IT Services,Columbus, OH,50,100,28000,52000,40000,75.0
+1785,IT Services,Columbus, OH,50,100,28000,52000,40000,75.0
+1786,IT Services,Dublin, OH,1,5,28000,52000,40000,3.0
+1787,Health Care Services & Hospitals,Columbus, OH,10000,10000,28000,52000,40000,10000.0
+1792,Health Care Services & Hospitals,Columbus, OH,1000,2000,46000,86000,66000,1500.0
+1793,Investment Banking & Asset Management,Columbus, OH,10000,10000,46000,86000,66000,10000.0
+1794,Staffing & Outsourcing,Westerville, OH,50,100,46000,86000,66000,75.0
+1795,Banks & Credit Unions,Charlotte, NC,10000,10000,50000,86000,68000,10000.0
+1798,Consulting,Charlotte, NC,10000,10000,50000,86000,68000,10000.0
+1799,Computer Hardware & Software,Charlotte, NC,10000,10000,50000,86000,68000,10000.0
+1801,Enterprise Software & Network Solutions,Charlotte, NC,10,25,50000,86000,68000,17.5
+1802,Staffing & Outsourcing,Charlotte, NC,1000,2000,50000,86000,68000,1500.0
+1803,IT Services,Charlotte, NC,500,1000,50000,86000,68000,750.0
+1804,Staffing & Outsourcing,Charlotte, NC,2000,5000,50000,86000,68000,3500.0
+1805,Staffing & Outsourcing,Charlotte, NC,500,1000,50000,86000,68000,750.0
+1807,IT Services,Charlotte, NC,50,100,50000,86000,68000,75.0
+1809,Staffing & Outsourcing,Charlotte, NC,100,500,50000,86000,68000,300.0
+1810,Staffing & Outsourcing,Charlotte, NC,100,500,50000,86000,68000,300.0
+1811,Enterprise Software & Network Solutions,Charlotte, NC,25,50,50000,86000,68000,37.5
+1812,IT Services,Charlotte, NC,10000,10000,50000,86000,68000,10000.0
+1813,Staffing & Outsourcing,Charlotte, NC,2000,5000,50000,86000,68000,3500.0
+1814,Staffing & Outsourcing,Charlotte, NC,1000,2000,50000,86000,68000,1500.0
+1815,Staffing & Outsourcing,Charlotte, NC,2000,5000,50000,86000,68000,3500.0
+1816,IT Services,Charlotte, NC,50,100,50000,86000,68000,75.0
+1817,Consulting,Charlotte, NC,5,10,50000,86000,68000,7.5
+1818,Accounting,Charlotte, NC,1,5,50000,86000,68000,3.0
+1819,Staffing & Outsourcing,Charlotte, NC,2000,5000,50000,86000,68000,3500.0
+1821,Logistics & Supply Chain,Charlotte, NC,10,25,50000,86000,68000,17.5
+1822,IT Services,Charlotte, NC,100,500,50000,86000,68000,300.0
+1824,Consulting,Charlotte, NC,500,1000,50000,86000,68000,750.0
+1826,Health Care Services & Hospitals,Charlotte, NC,100,500,54000,75000,64500,300.0
+1827,Logistics & Supply Chain,Huntersville, NC,5000,10000,54000,75000,64500,7500.0
+1828,IT Services,Charlotte, NC,10000,10000,54000,75000,64500,10000.0
+1829,Staffing & Outsourcing,Charlotte, NC,2000,5000,54000,75000,64500,3500.0
+1830,Staffing & Outsourcing,Charlotte, NC,100,500,54000,75000,64500,300.0
+1831,Staffing & Outsourcing,Charlotte, NC,50,100,54000,75000,64500,75.0
+1833,Staffing & Outsourcing,Fort Mill, SC,500,1000,54000,75000,64500,750.0
+1834,Consulting,Charlotte, NC,500,1000,54000,75000,64500,750.0
+1839,Consulting,Charlotte, NC,5,10,54000,75000,64500,7.5
+1840,Computer Hardware & Software,Huntersville, NC,5,10,54000,75000,64500,7.5
+1841,IT Services,Charlotte, NC,50,100,54000,75000,64500,75.0
+1842,IT Services,Charlotte, NC,50,100,54000,75000,64500,75.0
+1843,IT Services,Charlotte, NC,50,100,54000,75000,64500,75.0
+1845,Stock Exchanges,Charlotte, NC,50,100,54000,75000,64500,75.0
+1846,Staffing & Outsourcing,Charlotte, NC,1000,2000,54000,75000,64500,1500.0
+1847,IT Services,Charlotte, NC,10000,10000,54000,75000,64500,10000.0
+1849,Staffing & Outsourcing,Charlotte, NC,2000,5000,54000,75000,64500,3500.0
+1850,Health Care Services & Hospitals,Charlotte, NC,50,100,54000,75000,64500,75.0
+1851,IT Services,Charlotte, NC,50,100,54000,75000,64500,75.0
+1853,IT Services,Fort Mill, SC,500,1000,53000,99000,76000,750.0
+1854,Computer Hardware & Software,Huntersville, NC,5,10,53000,99000,76000,7.5
+1856,Staffing & Outsourcing,Charlotte, NC,1000,2000,53000,99000,76000,1500.0
+1857,Consulting,Charlotte, NC,500,1000,53000,99000,76000,750.0
+1858,IT Services,Charlotte, NC,50,100,53000,99000,76000,75.0
+1859,Computer Hardware & Software,Charlotte, NC,5,10,53000,99000,76000,7.5
+1862,Home Centers & Hardware Stores,Mooresville, NC,10000,10000,53000,99000,76000,10000.0
+1864,Logistics & Supply Chain,Huntersville, NC,5000,10000,53000,99000,76000,7500.0
+1866,IT Services,Charlotte, NC,50,100,53000,99000,76000,75.0
+1867,Automotive Parts & Accessories Stores,Charlotte, NC,2000,5000,53000,99000,76000,3500.0
+1868,IT Services,Charlotte, NC,10,25,53000,99000,76000,17.5
+1871,Home Centers & Hardware Stores,Mooresville, NC,10000,10000,53000,99000,76000,10000.0
+1872,Staffing & Outsourcing,Charlotte, NC,1,5,53000,99000,76000,3.0
+1875,IT Services,Charlotte, NC,25,50,53000,99000,76000,37.5
+1876,IT Services,Charlotte, NC,50,100,53000,99000,76000,75.0
+1877,Banks & Credit Unions,Charlotte, NC,10000,10000,53000,99000,76000,10000.0
+1878,Logistics & Supply Chain,Charlotte, NC,500,1000,53000,99000,76000,750.0
+1879,Banks & Credit Unions,Charlotte, NC,10000,10000,40000,74000,57000,10000.0
+1880,Advertising & Marketing,Mooresville, NC,1,5,40000,74000,57000,3.0
+1882,Staffing & Outsourcing,Charlotte, NC,100,500,40000,74000,57000,300.0
+1884,IT Services,Charlotte, NC,100,500,40000,74000,57000,300.0
+1885,Home Centers & Hardware Stores,Mooresville, NC,10000,10000,40000,74000,57000,10000.0
+1886,IT Services,Charlotte, NC,25,50,40000,74000,57000,37.5
+1887,Home Centers & Hardware Stores,Mooresville, NC,10000,10000,40000,74000,57000,10000.0
+1888,Computer Hardware & Software,San Francisco, CA,2000,5000,57000,104000,80500,3500.0
+1889,"Department, Clothing, & Shoe Stores",San Rafael, CA,100,500,57000,104000,80500,300.0
+1891,Video Games,San Mateo, CA,10000,10000,57000,104000,80500,10000.0
+1892,Computer Hardware & Software,San Francisco, CA,2000,5000,57000,104000,80500,3500.0
+1894,Education Training Services,San Mateo, CA,5,10,57000,104000,80500,7.5
+1896,Investment Banking & Asset Management,San Mateo, CA,500,1000,57000,104000,80500,750.0
+1897,Staffing & Outsourcing,San Francisco, CA,1000,2000,57000,104000,80500,1500.0
+1898,Internet,San Francisco, CA,10,25,57000,104000,80500,17.5
+1900,Advertising & Marketing,San Francisco, CA,10,25,57000,104000,80500,17.5
+1902,IT Services,San Francisco, CA,500,1000,57000,104000,80500,750.0
+1905,Staffing & Outsourcing,San Francisco, CA,100,500,57000,104000,80500,300.0
+1910,Staffing & Outsourcing,San Francisco, CA,100,500,57000,104000,80500,300.0
+1913,Enterprise Software & Network Solutions,San Francisco, CA,25,50,57000,104000,80500,37.5
+1916,Financial Transaction Processing,San Francisco, CA,1,5,99000,178000,138500,3.0
+1920,Health Care Services & Hospitals,San Francisco, CA,50,100,99000,178000,138500,75.0
+1923,Real Estate,San Francisco, CA,50,100,99000,178000,138500,75.0
+1924,Health Care Services & Hospitals,San Francisco, CA,1,1,99000,178000,138500,1.0
+1925,Health Care Services & Hospitals,San Francisco, CA,50,100,99000,178000,138500,75.0
+1926,Electrical & Electronic Manufacturing,San Francisco, CA,5,10,99000,178000,138500,7.5
+1929,Internet,San Francisco, CA,1,1,99000,178000,138500,1.0
+1935,Staffing & Outsourcing,San Francisco, CA,500,1000,99000,178000,138500,750.0
+1936,Staffing & Outsourcing,San Francisco, CA,100,500,99000,178000,138500,300.0
+1937,Health Care Services & Hospitals,San Francisco, CA,50,100,99000,178000,138500,75.0
+1941,Internet,San Francisco, CA,2000,5000,99000,178000,138500,3500.0
+1943,Consulting,Oakland, CA,50,100,93000,159000,126000,75.0
+1945,IT Services,San Francisco, CA,100,500,93000,159000,126000,300.0
+1946,Accounting,San Francisco, CA,10000,10000,93000,159000,126000,10000.0
+1947,Consulting,San Francisco, CA,500,1000,93000,159000,126000,750.0
+1949,IT Services,San Francisco, CA,25,50,93000,159000,126000,37.5
+1951,Banks & Credit Unions,San Francisco, CA,10000,10000,93000,159000,126000,10000.0
+1952,Federal Agencies,Burlingame, CA,10,25,93000,159000,126000,17.5
+1953,Staffing & Outsourcing,San Francisco, CA,50,100,93000,159000,126000,75.0
+1956,Advertising & Marketing,San Mateo, CA,100,500,93000,159000,126000,300.0
+1957,IT Services,San Mateo, CA,1,5,93000,159000,126000,3.0
+1960,Health Care Services & Hospitals,Marin City, CA,1,5,93000,159000,126000,3.0
+1962,IT Services,San Francisco, CA,50,100,93000,159000,126000,75.0
+1963,IT Services,San Francisco, CA,100,500,93000,159000,126000,300.0
+1964,Internet,San Francisco, CA,2000,5000,93000,159000,126000,3500.0
+1965,Staffing & Outsourcing,Daly City, CA,100,500,93000,159000,126000,300.0
+1966,Biotech & Pharmaceuticals,South San Francisco, CA,10000,10000,93000,159000,126000,10000.0
+1967,Staffing & Outsourcing,San Francisco, CA,100,500,93000,159000,126000,300.0
+1969,IT Services,San Mateo, CA,5,10,82000,116000,99000,7.5
+1972,Enterprise Software & Network Solutions,Foster City, CA,10,25,82000,116000,99000,17.5
+1973,Computer Hardware & Software,Foster City, CA,100,500,82000,116000,99000,300.0
+1975,Computer Hardware & Software,Burlingame, CA,1,5,82000,116000,99000,3.0
+1976,Consulting,San Francisco, CA,1,5,82000,116000,99000,3.0
+1982,"Health, Beauty, & Fitness",San Francisco, CA,5,10,82000,116000,99000,7.5
+1983,IT Services,San Francisco, CA,50,100,82000,116000,99000,75.0
+1984,Computer Hardware & Software,San Francisco, CA,1000,2000,82000,116000,99000,1500.0
+1985,Federal Agencies,Burlingame, CA,10,25,82000,116000,99000,17.5
+1986,Health Care Services & Hospitals,San Francisco, CA,50,100,82000,116000,99000,75.0
+1989,Staffing & Outsourcing,San Francisco, CA,100,500,82000,116000,99000,300.0
+1991,Video Games,Novato, CA,1000,2000,82000,116000,99000,1500.0
+1992,Enterprise Software & Network Solutions,Foster City, CA,10,25,82000,116000,99000,17.5
+1998,Energy,Millbrae, CA,25,50,65000,120000,92500,37.5
+1999,"Health, Beauty, & Fitness",San Mateo, CA,1,1,65000,120000,92500,1.0
+2000,IT Services,San Francisco, CA,25,50,65000,120000,92500,37.5
+2001,Accounting,San Francisco, CA,1,1,65000,120000,92500,1.0
+2002,IT Services,San Francisco, CA,50,100,65000,120000,92500,75.0
+2003,Banks & Credit Unions,San Francisco, CA,2000,5000,65000,120000,92500,3500.0
+2004,Staffing & Outsourcing,San Mateo, CA,1,5,65000,120000,92500,3.0
+2005,IT Services,Oakland, CA,5,10,65000,120000,92500,7.5
+2006,Consulting,San Francisco, CA,10,25,65000,120000,92500,17.5
+2007,Staffing & Outsourcing,San Francisco, CA,25,50,65000,120000,92500,37.5
+2010,Logistics & Supply Chain,San Francisco, CA,500,1000,65000,120000,92500,750.0
+2011,Computer Hardware & Software,San Francisco, CA,1000,2000,65000,120000,92500,1500.0
+2012,Staffing & Outsourcing,San Ramon, CA,1000,2000,65000,120000,92500,1500.0
+2013,Biotech & Pharmaceuticals,Hercules, CA,2000,5000,65000,120000,92500,3500.0
+2017,IT Services,San Francisco, CA,100,500,65000,120000,92500,300.0
+2019,Staffing & Outsourcing,San Francisco, CA,2000,5000,65000,120000,92500,3500.0
+2020,Computer Hardware & Software,San Mateo, CA,10,25,65000,120000,92500,17.5
+2023,Colleges & Universities,Berkeley, CA,500,1000,65000,120000,92500,750.0
+2025,Staffing & Outsourcing,San Francisco, CA,25,50,46000,86000,66000,37.5
+2028,Computer Hardware & Software,Oakland, CA,25,50,46000,86000,66000,37.5
+2031,IT Services,San Francisco, CA,50,100,46000,86000,66000,75.0
+2032,Computer Hardware & Software,Foster City, CA,100,500,46000,86000,66000,300.0
+2035,IT Services,San Francisco, CA,100,500,46000,86000,66000,300.0
+2036,IT Services,San Francisco, CA,100,500,46000,86000,66000,300.0
+2037,Advertising & Marketing,San Mateo, CA,100,500,46000,86000,66000,300.0
+2038,IT Services,San Ramon, CA,5,10,46000,86000,66000,7.5
+2040,Insurance Carriers,San Francisco, CA,2000,5000,46000,86000,66000,3500.0
+2042,IT Services,San Francisco, CA,50,100,46000,86000,66000,75.0
+2043,IT Services,San Francisco, CA,100,500,46000,86000,66000,300.0
+2045,IT Services,San Francisco, CA,10,25,46000,86000,66000,17.5
+2048,Investment Banking & Asset Management,San Mateo, CA,5000,10000,47000,74000,60500,7500.0
+2049,Health Care Services & Hospitals,Oakland, CA,5000,10000,47000,74000,60500,7500.0
+2052,IT Services,South San Francisco, CA,100,500,47000,74000,60500,300.0
+2054,Staffing & Outsourcing,Alameda, CA,100,500,47000,74000,60500,300.0
+2055,Consulting,Oakland, CA,50,100,47000,74000,60500,75.0
+2056,Consulting,Walnut Creek, CA,5,10,47000,74000,60500,7.5
+2057,Banks & Credit Unions,San Francisco, CA,10000,10000,47000,74000,60500,10000.0
+2058,Federal Agencies,Burlingame, CA,10,25,47000,74000,60500,17.5
+2062,Staffing & Outsourcing,San Ramon, CA,100,500,47000,74000,60500,300.0
+2066,Consumer Products Manufacturing,Walnut Creek, CA,2000,5000,47000,74000,60500,3500.0
+2068,Staffing & Outsourcing,South San Francisco, CA,100,500,47000,74000,60500,300.0
+2069,Staffing & Outsourcing,San Rafael, CA,100,500,47000,74000,60500,300.0
+2070,Computer Hardware & Software,Redwood City, CA,25,50,47000,74000,60500,37.5
+2072,Consulting,San Francisco, CA,1,5,47000,74000,60500,3.0
+2073,Insurance Agencies & Brokerages,Carmel, IN,100,500,34000,61000,47500,300.0
+2074,Financial Transaction Processing,Indianapolis, IN,2000,5000,34000,61000,47500,3500.0
+2075,Consulting,Indianapolis, IN,10,25,34000,61000,47500,17.5
+2076,Enterprise Software & Network Solutions,Indianapolis, IN,1,5,34000,61000,47500,3.0
+2077,Casual Restaurants,Indianapolis, IN,1,1,34000,61000,47500,1.0
+2079,IT Services,Indianapolis, IN,1,1,34000,61000,47500,1.0
+2080,IT Services,Indianapolis, IN,50,100,34000,61000,47500,75.0
+2081,Staffing & Outsourcing,Indianapolis, IN,25,50,34000,61000,47500,37.5
+2082,Staffing & Outsourcing,Indianapolis, IN,50,100,34000,61000,47500,75.0
+2084,Staffing & Outsourcing,Indianapolis, IN,50,100,34000,61000,47500,75.0
+2085,IT Services,Indianapolis, IN,50,100,34000,61000,47500,75.0
+2086,IT Services,Indianapolis, IN,50,100,34000,61000,47500,75.0
+2087,Logistics & Supply Chain,Whitestown, IN,10000,10000,34000,61000,47500,10000.0
+2088,IT Services,Indianapolis, IN,50,100,34000,61000,47500,75.0
+2089,Health Care Services & Hospitals,Indianapolis, IN,100,500,34000,61000,47500,300.0
+2090,Financial Transaction Processing,Jeffersonville, IN,2000,5000,34000,61000,47500,3500.0
+2091,IT Services,Indianapolis, IN,50,100,34000,61000,47500,75.0
+2092,Health Care Services & Hospitals,Beech Grove, IN,2000,5000,34000,61000,47500,3500.0
+2093,Casual Restaurants,Indianapolis, IN,1,1,34000,61000,47500,1.0
+2095,Insurance Carriers,Carmel, IN,2000,5000,34000,61000,47500,3500.0
+2096,IT Services,Redmond, WA,500,1000,35000,67000,51000,750.0
+2099,Computer Hardware & Software,Redmond, WA,10000,10000,35000,67000,51000,10000.0
+2100,Staffing & Outsourcing,Seattle, WA,25,50,35000,67000,51000,37.5
+2101,Banks & Credit Unions,Seattle, WA,500,1000,35000,67000,51000,750.0
+2102,Research & Development,Seattle, WA,1,1,35000,67000,51000,1.0
+2103,General Merchandise & Superstores,Issaquah, WA,10000,10000,35000,67000,51000,10000.0
+2104,Computer Hardware & Software,Seattle, WA,10,25,35000,67000,51000,17.5
+2105,Computer Hardware & Software,Redmond, WA,10000,10000,35000,67000,51000,10000.0
+2107,General Merchandise & Superstores,Issaquah, WA,10000,10000,35000,67000,51000,10000.0
+2108,Lending,Seattle, WA,500,1000,35000,67000,51000,750.0
+2109,Aerospace & Defense,Kent, WA,10,25,35000,67000,51000,17.5
+2110,IT Services,Seattle, WA,50,100,35000,67000,51000,75.0
+2111,Logistics & Supply Chain,Redmond, WA,10,25,35000,67000,51000,17.5
+2112,IT Services,Seattle, WA,50,100,35000,67000,51000,75.0
+2114,Enterprise Software & Network Solutions,Bellevue, WA,25,50,35000,67000,51000,37.5
+2115,Social Assistance,Seattle, WA,100,500,35000,67000,51000,300.0
+2116,Accounting,Seattle, WA,1,1,35000,67000,51000,1.0
+2117,IT Services,Redmond, WA,5000,10000,35000,67000,51000,7500.0
+2118,Staffing & Outsourcing,Seattle, WA,50,100,35000,67000,51000,75.0
+2121,Lending,Seattle, WA,500,1000,35000,67000,51000,750.0
+2122,Computer Hardware & Software,Redmond, WA,10000,10000,55000,101000,78000,10000.0
+2123,Staffing & Outsourcing,Kent, WA,25,50,55000,101000,78000,37.5
+2124,Social Assistance,Seattle, WA,100,500,55000,101000,78000,300.0
+2125,Staffing & Outsourcing,Kirkland, WA,50,100,55000,101000,78000,75.0
+2126,Video Games,Redmond, WA,10000,10000,55000,101000,78000,10000.0
+2128,Staffing & Outsourcing,Redmond, WA,50,100,55000,101000,78000,75.0
+2129,General Merchandise & Superstores,Issaquah, WA,10000,10000,55000,101000,78000,10000.0
+2130,Computer Hardware & Software,Redmond, WA,100,500,55000,101000,78000,300.0
+2132,Computer Hardware & Software,Redmond, WA,10000,10000,55000,101000,78000,10000.0
+2133,Staffing & Outsourcing,Seattle, WA,25,50,55000,101000,78000,37.5
+2134,Computer Hardware & Software,Redmond, WA,10000,10000,55000,101000,78000,10000.0
+2135,IT Services,Seattle, WA,50,100,55000,101000,78000,75.0
+2136,IT Services,Seattle, WA,10,25,55000,101000,78000,17.5
+2137,Staffing & Outsourcing,Kent, WA,25,50,55000,101000,78000,37.5
+2139,IT Services,Seattle, WA,5,10,55000,101000,78000,7.5
+2141,Staffing & Outsourcing,Seattle, WA,10,25,55000,101000,78000,17.5
+2143,IT Services,Kirkland, WA,100,500,55000,101000,78000,300.0
+2145,Colleges & Universities,Seattle, WA,2000,5000,55000,101000,78000,3500.0
+2146,Staffing & Outsourcing,Renton, WA,25,50,55000,101000,78000,37.5
+2150,Colleges & Universities,Athens, GA,2000,5000,32000,56000,44000,3500.0
+2151,IT Services,Athens, GA,50,100,32000,56000,44000,75.0
+2152,IT Services,Athens, GA,50,100,32000,56000,44000,75.0
+2153,IT Services,Athens, GA,50,100,32000,56000,44000,75.0
+2154,Computer Hardware & Software,Burlingame, KS,1,5,36000,67000,51500,3.0
+2155,IT Services,Topeka, KS,100,500,36000,67000,51500,300.0
+2157,IT Services,Denver, CO,100,500,57000,67000,62000,300.0
+2158,Computer Hardware & Software,Denver, CO,2000,5000,57000,67000,62000,3500.0
+2160,Internet,Denver, CO,1000,2000,57000,67000,62000,1500.0
+2161,IT Services,Denver, CO,10,25,57000,67000,62000,17.5
+2162,Staffing & Outsourcing,Denver, CO,25,50,57000,67000,62000,37.5
+2163,IT Services,Denver, CO,10,25,57000,67000,62000,17.5
+2164,IT Services,Denver, CO,5000,10000,57000,67000,62000,7500.0
+2165,Staffing & Outsourcing,Centennial, CO,5,10,57000,67000,62000,7.5
+2166,Staffing & Outsourcing,Boulder, CO,100,500,57000,67000,62000,300.0
+2168,IT Services,Greenwood Village, Arapahoe,500,1000,57000,67000,62000,750.0
+2169,Enterprise Software & Network Solutions,Boulder, CO,1,5,57000,67000,62000,3.0
+2170,IT Services,Denver, CO,100,500,57000,67000,62000,300.0
+2172,Enterprise Software & Network Solutions,Denver, CO,25,50,57000,67000,62000,37.5
+2173,IT Services,Denver, CO,50,100,57000,67000,62000,75.0
+2174,Utilities,Henderson, CO,10000,10000,57000,67000,62000,10000.0
+2175,Aerospace & Defense,Englewood, CO,10000,10000,57000,67000,62000,10000.0
+2176,Advertising & Marketing,Denver, CO,1,5,57000,67000,62000,3.0
+2177,IT Services,Denver, CO,100,500,57000,67000,62000,300.0
+2178,Staffing & Outsourcing,Greenwood Village, Arapahoe,2000,5000,57000,67000,62000,3500.0
+2179,IT Services,Denver, CO,50,100,57000,67000,62000,75.0
+2180,Consulting,Lakewood, CO,5,10,57000,67000,62000,7.5
+2181,Computer Hardware & Software,Denver, CO,1,5,57000,67000,62000,3.0
+2184,Computer Hardware & Software,Centennial, CO,25,50,49000,91000,70000,37.5
+2186,IT Services,Greenwood Village, Arapahoe,500,1000,49000,91000,70000,750.0
+2187,Investment Banking & Asset Management,Lone Tree, CO,5000,10000,49000,91000,70000,7500.0
+2188,Health Care Products Manufacturing,Louisville, CO,25,50,49000,91000,70000,37.5
+2189,Aerospace & Defense,Englewood, CO,10000,10000,49000,91000,70000,10000.0
+2190,Financial Transaction Processing,Denver, CO,5000,10000,49000,91000,70000,7500.0
+2191,IT Services,Denver, CO,5,10,49000,91000,70000,7.5
+2193,Staffing & Outsourcing,Denver, CO,1000,2000,49000,91000,70000,1500.0
+2195,Construction,Greenwood Village, Arapahoe,500,1000,49000,91000,70000,750.0
+2196,Oil & Gas Services,Lakewood, CO,500,1000,49000,91000,70000,750.0
+2199,Enterprise Software & Network Solutions,Denver, CO,25,50,49000,91000,70000,37.5
+2201,Consulting,Denver, CO,1,1,49000,91000,70000,1.0
+2203,IT Services,Broomfield, CO,10,25,49000,91000,70000,17.5
+2206,Staffing & Outsourcing,Boulder, CO,1,1,49000,91000,70000,1.0
+2207,IT Services,Denver, CO,5,10,49000,91000,70000,7.5
+2208,Advertising & Marketing,Englewood, CO,1,5,49000,91000,70000,3.0
+2211,"Cable, Internet & Telephone Providers",Broomfield, CO,10000,10000,57000,100000,78500,10000.0
+2212,IT Services,Denver, CO,25,50,57000,100000,78500,37.5
+2216,Staffing & Outsourcing,Denver, CO,10,25,57000,100000,78500,17.5
+2217,Computer Hardware & Software,Denver, CO,5,10,57000,100000,78500,7.5
+2218,Health Care Services & Hospitals,Aurora, CO,10000,10000,57000,100000,78500,10000.0
+2219,IT Services,Lakewood, CO,1,1,57000,100000,78500,1.0
+2221,IT Services,Denver, CO,50,100,57000,100000,78500,75.0
+2222,Staffing & Outsourcing,Denver, CO,5,10,57000,100000,78500,7.5
+2224,IT Services,Denver, CO,1,1,57000,100000,78500,1.0
+2225,Enterprise Software & Network Solutions,Louisville, CO,10,25,57000,100000,78500,17.5
+2226,IT Services,Denver, CO,50,100,57000,100000,78500,75.0
+2227,Consulting,Denver, CO,25,50,57000,100000,78500,37.5
+2228,Staffing & Outsourcing,Englewood, CO,100,500,57000,100000,78500,300.0
+2229,Staffing & Outsourcing,Greenwood Village, Arapahoe,2000,5000,57000,100000,78500,3500.0
+2230,"Cable, Internet & Telephone Providers",Broomfield, CO,10000,10000,57000,100000,78500,10000.0
+2231,Wholesale,Louisville, CO,100,500,57000,100000,78500,300.0
+2233,Aerospace & Defense,Littleton, CO,10000,10000,57000,100000,78500,10000.0
+2235,Staffing & Outsourcing,Denver, CO,5,10,57000,100000,78500,7.5
+2236,Health Care Services & Hospitals,Greenwood Village, Arapahoe,50,100,57000,100000,78500,75.0
+2237,IT Services,Greenwood Village, Arapahoe,10,25,57000,100000,78500,17.5
+2238,IT Services,Aurora, CO,50,100,78000,104000,91000,75.0
+2242,Staffing & Outsourcing,Centennial, CO,100,500,78000,104000,91000,300.0
+2243,"Cable, Internet & Telephone Providers",Broomfield, CO,10000,10000,78000,104000,91000,10000.0
+2245,Staffing & Outsourcing,Centennial, CO,50,100,78000,104000,91000,75.0
+2247,Computer Hardware & Software,Broomfield, CO,25,50,78000,104000,91000,37.5
+2249,Wholesale,Centennial, CO,10000,10000,78000,104000,91000,10000.0
+2251,Enterprise Software & Network Solutions,Centennial, CO,25,50,78000,104000,91000,37.5
+2252,Health Care Services & Hospitals,Broomfield, CO,2000,5000,78000,104000,91000,3500.0
